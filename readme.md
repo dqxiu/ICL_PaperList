@@ -130,6 +130,11 @@ This section contains the pilot works that might contributes to the prompt selec
    *authors*.  [[pdf](link)], [[project](link)], 202X.XX, ![](https://img.shields.io/badge/conference-FAEFCA)
     ![](https://img.shields.io/badge/Analysis-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
 
+17.  **Can language models learn from explanations in context?**. ![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/explanations-DCE7F1)
+   
+   *Andrew K. Lampinen, Ishita Dasgupta, Stephanie C. Y. Chan, Kory Matthewson, Michael Henry Tessler, Antonia Creswell, James L. McClelland, Jane X. Wang, Felix Hill*.  [[pdf](link)], [[project](link)], 2022.04 ![](https://img.shields.io/badge/ArXiv-FAEFCA)
+    ![](https://img.shields.io/badge/None-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
+
 
 ### Analysis of ICL
 
@@ -188,20 +193,15 @@ This section contains the pilot works that might contributes to the influence fa
    *Joel Jang, Seonghyeon Ye, Minjoon Seo*.  [[pdf](link)], [[project](link)], 2022.10, ![](https://img.shields.io/badge/ArXiv-FAEFCA)
     ![](https://img.shields.io/badge/None-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
 
-11.**Does GPT-3 Generate Empathetic Dialogues? A Novel In-Context Example Selection Method and Automatic Evaluation Metric for Empathetic Dialogue Generation**. ![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/empathetic-DCE7F1)
+<!-- 11.**Does GPT-3 Generate Empathetic Dialogues? A Novel In-Context Example Selection Method and Automatic Evaluation Metric for Empathetic Dialogue Generation**. ![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/empathetic-DCE7F1)
    
    *Young-Jun Lee, Chae-Gyun Lim, Ho-Jin Choi*.  [[pdf](link)], [[project](link)], 2022.10, ![](https://img.shields.io/badge/COLING-FAEFCA)
     ![](https://img.shields.io/badge/None-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
-
+ -->
 12.  **Transformers learn in-context by gradient descent**. <https://export.arxiv.org/pdf/2212.07677>![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/gd-DCE7F1)
    
    *von Oswald, Johannes, Eyvind Niklasson, Ettore Randazzo, João Sacramento, Alexander Mordvintsev, Andrey Zhmoginov, Max Vladymyrov*.  [[pdf](link)], [[project](link)], 2022.12, ![](https://img.shields.io/badge/ArXiv-FAEFCA)
     ![](https://img.shields.io/badge/Analysis-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
-
-13.  **Can language models learn from explanations in context?**. ![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/explanations-DCE7F1)
-   
-   *Andrew K. Lampinen, Ishita Dasgupta, Stephanie C. Y. Chan, Kory Matthewson, Michael Henry Tessler, Antonia Creswell, James L. McClelland, Jane X. Wang, Felix Hill*.  [[pdf](link)], [[project](link)], 2022.04 ![](https://img.shields.io/badge/ArXiv-FAEFCA)
-    ![](https://img.shields.io/badge/None-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
     
 14.  **Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers**. ![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/meta_optimizer-DCE7F1)
    
