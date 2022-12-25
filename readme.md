@@ -186,7 +186,7 @@ This section contains the pilot works that might contributes to the influence fa
 9. **Ground-Truth Labels Matter: A Deeper Look into Input-Label Demonstrations**. ![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/ground_truth-DCE7F1)
    
    *Junyeob Kim, Hyuhng Joon Kim, Hyunsoo Cho, Hwiyeol Jo, Sang-Woo Lee, Sang-goo Lee, Kang Min Yoo, Taeuk Kim*.  [[pdf](link)], [[project](link)], 2022.05, ![](https://img.shields.io/badge/ArXiv-FAEFCA)
-    ![](https://img.shields.io/badge/None-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
+    ![](https://img.shields.io/badge/Analysis-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
 
 10. **Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts**. ![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/negated-DCE7F1)
    
