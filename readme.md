@@ -196,19 +196,24 @@ This section contains the pilot works that might contributes to the influence fa
 
 6.  **Transformers learn in-context by gradient descent** ![](https://img.shields.io/badge/gd-DCE7F1)
    
-   *von Oswald, Johannes, Eyvind Niklasson, Ettore Randazzo, João Sacramento, Alexander Mordvintsev, Andrey Zhmoginov, Max Vladymyrov*.  [[pdf](link)], [[project](link)], 2022.12, ![](https://img.shields.io/badge/ArXiv-FAEFCA) ![](https://img.shields.io/badge/Analysis-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
+   *von Oswald, Johannes, Eyvind Niklasson, Ettore Randazzo, João Sacramento, Alexander Mordvintsev, Andrey Zhmoginov, Max Vladymyrov*.  [[pdf](link)], [[project](link)], 2022.12, ![](https://img.shields.io/badge/ArXiv-FAEFCA)
+   ![](https://img.shields.io/badge/Analysis-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
     
 7.  **Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers** ![](https://img.shields.io/badge/meta_optimizer-DCE7F1)
    
-   *Damai Dai, Yutao Sun, Li Dong, Yaru Hao, Zhifang Sui, Furu Wei*.  [[pdf](link)], [[project](link)], 2022.12 ![](https://img.shields.io/badge/ArXiv-FAEFCA) ![](https://img.shields.io/badge/Analysis-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
+   *Damai Dai, Yutao Sun, Li Dong, Yaru Hao, Zhifang Sui, Furu Wei*.  [[pdf](link)], [[project](link)], 2022.12 ![](https://img.shields.io/badge/ArXiv-FAEFCA)
+   ![](https://img.shields.io/badge/Analysis-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
 
 <!-- 10. **Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts**. ![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/negated-DCE7F1)
    
-   *Joel Jang, Seonghyeon Ye, Minjoon Seo*.  [[pdf](link)], [[project](link)], 2022.10, ![](https://img.shields.io/badge/ArXiv-FAEFCA) ![](https://img.shields.io/badge/None-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
+   *Joel Jang, Seonghyeon Ye, Minjoon Seo*.  [[pdf](link)], [[project](link)], 2022.10, ![](https://img.shields.io/badge/ArXiv-FAEFCA) 
+![](https://img.shields.io/badge/None-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
  -->
+ 
 <!-- 11.**Does GPT-3 Generate Empathetic Dialogues? A Novel In-Context Example Selection Method and Automatic Evaluation Metric for Empathetic Dialogue Generation**. ![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/empathetic-DCE7F1)
    
-   *Young-Jun Lee, Chae-Gyun Lim, Ho-Jin Choi*.  [[pdf](link)], [[project](link)], 2022.10, ![](https://img.shields.io/badge/COLING-FAEFCA) ![](https://img.shields.io/badge/None-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
+   *Young-Jun Lee, Chae-Gyun Lim, Ho-Jin Choi*.  [[pdf](link)], [[project](link)], 2022.10, ![](https://img.shields.io/badge/COLING-FAEFCA) 
+![](https://img.shields.io/badge/None-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
  -->
 
 
