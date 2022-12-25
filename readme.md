@@ -120,6 +120,16 @@ This section contains the pilot works that might contributes to the prompt selec
 14. **Structured Prompting: Scaling In-Context Learning to 1,000 Examples** ![](https://img.shields.io/badge/New-EAD8D9)
 <https://arxiv.org/pdf/2212.06713.pdf>
 
+15. **Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity**. ![](https://img.shields.io/badge/Abbre-DCE7F1)
+   
+   *authors*.  [[pdf](link)], [[project](link)], 202X.XX, ![](https://img.shields.io/badge/conference-FAEFCA)
+    ![](https://img.shields.io/badge/Analysis-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
+
+16. **On the Relation between Sensitivity and Accuracy in In-context Learning**. ![](https://img.shields.io/badge/Abbre-DCE7F1)
+   
+   *authors*.  [[pdf](link)], [[project](link)], 202X.XX, ![](https://img.shields.io/badge/conference-FAEFCA)
+    ![](https://img.shields.io/badge/Analysis-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
+
 
 ### Analysis of ICL
 
@@ -128,56 +138,75 @@ This section contains the pilot works that might contributes to the influence fa
 #### Influence Factors for ICL
 #### Working Mechanism of ICL
 
-1. **An Explanation of In-context Learning as Implicit Bayesian Inference**. ![](https://img.shields.io/badge/Abbre-DCE7F1)
+1. **An Explanation of In-context Learning as Implicit Bayesian Inference**. ![](https://img.shields.io/badge/bayesian-DCE7F1)
    
-   *authors*.  [[pdf](link)], [[project](link)], 202X.XX, ![](https://img.shields.io/badge/conference-FAEFCA)
-    ![](https://img.shields.io/badge/section-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
-2. **Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?**. ![](https://img.shields.io/badge/Abbre-DCE7F1)
+   *authors*.  [[pdf](link)], [[project](link)], 2022.08, ![](https://img.shields.io/badge/ICLR-FAEFCA)
+    ![](https://img.shields.io/badge/None-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
+
+2. **Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?**. ![](https://img.shields.io/badge/rethinking-DCE7F1)
    
-   *authors*.  [[pdf](link)], [[project](link)], 202X.XX, ![](https://img.shields.io/badge/conference-FAEFCA)
-    ![](https://img.shields.io/badge/section-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
-3. **What Makes Good In-Context Examples for GPT-3?**. ![](https://img.shields.io/badge/Abbre-DCE7F1)
+   *Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, Luke Zettlemoyer*.  [[pdf](link)], [[project](link)], 2022.03, ![](https://img.shields.io/badge/ArXiv-FAEFCA)
+    ![](https://img.shields.io/badge/Analysis-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
+
+3. **What Makes Good In-Context Examples for GPT-3?**. ![](https://img.shields.io/badge/similarity-DCE7F1)
    
-   *authors*.  [[pdf](link)], [[project](link)], 202X.XX, ![](https://img.shields.io/badge/conference-FAEFCA)
-    ![](https://img.shields.io/badge/section-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
-4. **Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity**. ![](https://img.shields.io/badge/Abbre-DCE7F1)
+   *Jiachang Liu, Dinghan Shen, Yizhe Zhang, Bill Dolan, Lawrence Carin, Weizhu Chen*.  [[pdf](link)], [[project](link)], 2022.08, ![](https://img.shields.io/badge/DeeLIO@ACL-FAEFCA)
+    ![](https://img.shields.io/badge/Analysis-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
+
+4. **In-context Learning and Induction Heads**. ![](https://img.shields.io/badge/induction_head-DCE7F1)
    
-   *authors*.  [[pdf](link)], [[project](link)], 202X.XX, ![](https://img.shields.io/badge/conference-FAEFCA)
-    ![](https://img.shields.io/badge/section-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
-5. **In-context Learning and Induction Heads**. ![](https://img.shields.io/badge/Abbre-DCE7F1)
+   *Catherine Olsson, Nelson Elhage, Neel Nanda, Nicholas Joseph, Nova DasSarma, Tom Henighan, Ben Mann, Amanda Askell, Yuntao Bai, Anna Chen, Tom Conerly, Dawn Drain, Deep Ganguli, Zac Hatfield-Dodds, Danny Hernandez, Scott Johnston, Andy Jones, Jackson Kernion, Liane Lovitt, Kamal Ndousse, Dario Amodei, Tom Brown, Jack Clark, Jared Kaplan, Sam McCandlish, Chris Olah*.  [[pdf](link)], [[project](link)], 2022.10, ![](https://img.shields.io/badge/ArXiv-FAEFCA)
+    ![](https://img.shields.io/badge/Analysis-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
+
+5. **What Can Transformers Learn In-Context? A Case Study of Simple Function Classes**. ![](https://img.shields.io/badge/case_study-DCE7F1)
    
-   *authors*.  [[pdf](link)], [[project](link)], 202X.XX, ![](https://img.shields.io/badge/conference-FAEFCA)
-    ![](https://img.shields.io/badge/section-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
-6. **On the Relation between Sensitivity and Accuracy in In-context Learning**. ![](https://img.shields.io/badge/Abbre-DCE7F1)
+   *Shivam Garg, Dimitris Tsipras, Percy Liang, Gregory Valiant*.  [[pdf](link)], [[project](link)], 2022.08, ![](https://img.shields.io/badge/ArXiv-FAEFCA)
+    ![](https://img.shields.io/badge/Analysis-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
+
+6. **Emergent Abilities of Large Language Models**. ![](https://img.shields.io/badge/emergent-DCE7F1)
    
-   *authors*.  [[pdf](link)], [[project](link)], 202X.XX, ![](https://img.shields.io/badge/conference-FAEFCA)
-    ![](https://img.shields.io/badge/section-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
-7. **What Can Transformers Learn In-Context? A Case Study of Simple Function Classes**. ![](https://img.shields.io/badge/Abbre-DCE7F1)
+   *Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, Sebastian Borgeaud, Dani Yogatama, Maarten Bosma, Denny Zhou, Donald Metzler, Ed H. Chi, Tatsunori Hashimoto, Oriol Vinyals, Percy Liang, Jeff Dean, William Fedus*.  [[pdf](link)], [[project](link)], 2022.07, ![](https://img.shields.io/badge/ArXiv-FAEFCA)
+    ![](https://img.shields.io/badge/Analysis-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
+
+7. **"Data Distributional Properties Drive Emergent In-Context Learning in Transformers"**. ![](https://img.shields.io/badge/data_distributional-DCE7F1)
    
-   *authors*.  [[pdf](link)], [[project](link)], 202X.XX, ![](https://img.shields.io/badge/conference-FAEFCA)
-    ![](https://img.shields.io/badge/section-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
-8. **Emergent Abilities of Large Language Models, Transactions on Machine Learning Research**. ![](https://img.shields.io/badge/Abbre-DCE7F1)
+   *Stephanie C. Y. Chan, Adam Santoro, Andrew K. Lampinen, Jane X. Wang, Aaditya Singh, Pierre H. Richemond, Jay McClelland, Felix Hill*.  [[pdf](link)], [[project](link)], 2022.05, ![](https://img.shields.io/badge/ArXiv-FAEFCA)
+    ![](https://img.shields.io/badge/None-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
+
+8. **What learning algorithm is in-context learning? Investigations with linear models**. ![](https://img.shields.io/badge/learning_algorithm-DCE7F1)
    
-   *authors*.  [[pdf](link)], [[project](link)], 202X.XX, ![](https://img.shields.io/badge/conference-FAEFCA)
-    ![](https://img.shields.io/badge/section-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
-9. **Shivam Garg; Dimitris Tsipras; Percy Liang; Gregory Valiant;  "What Can Transformers Learn In-Context? A Case Study of Simple Function Classes"**. ![](https://img.shields.io/badge/Abbre-DCE7F1)
+   *Ekin Akyürek, Dale Schuurmans, Jacob Andreas, Tengyu Ma, Denny Zhou*.  [[pdf](link)], [[project](link)], 2022.11, ![](https://img.shields.io/badge/ArXiv-FAEFCA)
+    ![](https://img.shields.io/badge/Analysis-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
+
+9. **Ground-Truth Labels Matter: A Deeper Look into Input-Label Demonstrations**. ![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/ground_truth-DCE7F1)
    
-   *authors*.  [[pdf](link)], [[project](link)], 202X.XX, ![](https://img.shields.io/badge/conference-FAEFCA)
-    ![](https://img.shields.io/badge/section-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
-10. **"Data Distributional Properties Drive Emergent In-Context Learning in Transformers"**. ![](https://img.shields.io/badge/Abbre-DCE7F1)
+   *Junyeob Kim, Hyuhng Joon Kim, Hyunsoo Cho, Hwiyeol Jo, Sang-Woo Lee, Sang-goo Lee, Kang Min Yoo, Taeuk Kim*.  [[pdf](link)], [[project](link)], 2022.05, ![](https://img.shields.io/badge/ArXiv-FAEFCA)
+    ![](https://img.shields.io/badge/None-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
+
+10. **Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts**. ![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/negated-DCE7F1)
    
-   *authors*.  [[pdf](link)], [[project](link)], 202X.XX, ![](https://img.shields.io/badge/conference-FAEFCA)
-    ![](https://img.shields.io/badge/section-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
-11. **What learning algorithm is in-context learning? Investigations with linear models**. ![](https://img.shields.io/badge/Abbre-DCE7F1)
+   *Joel Jang, Seonghyeon Ye, Minjoon Seo*.  [[pdf](link)], [[project](link)], 2022.10, ![](https://img.shields.io/badge/ArXiv-FAEFCA)
+    ![](https://img.shields.io/badge/None-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
+
+11.**Does GPT-3 Generate Empathetic Dialogues? A Novel In-Context Example Selection Method and Automatic Evaluation Metric for Empathetic Dialogue Generation**. ![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/empathetic-DCE7F1)
    
-   *authors*.  [[pdf](link)], [[project](link)], 202X.XX, ![](https://img.shields.io/badge/conference-FAEFCA)
-    ![](https://img.shields.io/badge/section-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
-12. **Ground-Truth Labels Matter: A Deeper Look into Input-Label Demonstrations** ![](https://img.shields.io/badge/New-EAD8D9)
-13. **Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts** ![](https://img.shields.io/badge/New-EAD8D9)
-14.**Does GPT-3 Generate Empathetic Dialogues? A Novel In-Context Example Selection Method and Automatic Evaluation Metric for Empathetic Dialogue Generation**![](https://img.shields.io/badge/New-EAD8D9)
-1.  **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters** ![](https://img.shields.io/badge/New-EAD8D9)
-2.  **Transformers learn in-context by gradient descent∗** <https://export.arxiv.org/pdf/2212.07677>![](https://img.shields.io/badge/New-EAD8D9)
-3.  **Can language models learn from explanations in context?** ![](https://img.shields.io/badge/New-EAD8D9)
+   *Young-Jun Lee, Chae-Gyun Lim, Ho-Jin Choi*.  [[pdf](link)], [[project](link)], 2022.10, ![](https://img.shields.io/badge/COLING-FAEFCA)
+    ![](https://img.shields.io/badge/None-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
+
+12.  **Transformers learn in-context by gradient descent**. <https://export.arxiv.org/pdf/2212.07677>![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/gd-DCE7F1)
+   
+   *von Oswald, Johannes, Eyvind Niklasson, Ettore Randazzo, João Sacramento, Alexander Mordvintsev, Andrey Zhmoginov, Max Vladymyrov*.  [[pdf](link)], [[project](link)], 2022.12, ![](https://img.shields.io/badge/ArXiv-FAEFCA)
+    ![](https://img.shields.io/badge/None-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
+
+13.  **Can language models learn from explanations in context?**. ![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/explanations-DCE7F1)
+   
+   *Andrew K. Lampinen, Ishita Dasgupta, Stephanie C. Y. Chan, Kory Matthewson, Michael Henry Tessler, Antonia Creswell, James L. McClelland, Jane X. Wang, Felix Hill*.  [[pdf](link)], [[project](link)], 2022.04 ![](https://img.shields.io/badge/ArXiv-FAEFCA)
+    ![](https://img.shields.io/badge/None-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
+    
+14.  **Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers**. ![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/meta_optimizer-DCE7F1)
+   
+   *Damai Dai, Yutao Sun, Li Dong, Yaru Hao, Zhifang Sui, Furu Wei*.  [[pdf](link)], [[project](link)], 2022.12 ![](https://img.shields.io/badge/ArXiv-FAEFCA)
+    ![](https://img.shields.io/badge/Analysis-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
 
 
 ### Evaluation and Resources
