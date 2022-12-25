@@ -196,7 +196,7 @@ This section contains the pilot works that might contributes to the influence fa
 12.  **Transformers learn in-context by gradient descent**. <https://export.arxiv.org/pdf/2212.07677>![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/gd-DCE7F1)
    
    *von Oswald, Johannes, Eyvind Niklasson, Ettore Randazzo, João Sacramento, Alexander Mordvintsev, Andrey Zhmoginov, Max Vladymyrov*.  [[pdf](link)], [[project](link)], 2022.12, ![](https://img.shields.io/badge/ArXiv-FAEFCA)
-    ![](https://img.shields.io/badge/None-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
+    ![](https://img.shields.io/badge/Analysis-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
 
 13.  **Can language models learn from explanations in context?**. ![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/explanations-DCE7F1)
    
