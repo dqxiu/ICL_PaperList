@@ -60,9 +60,6 @@ This section contains the pilot works that might contributes to the warmup strat
 
 This section contains the pilot works that might contributes to the prompt selection and prompt formulation strategies of ICL.
 
-#### Prompt Selection Strategies for LLMs
-#### Prompt Formulation Strategies for LLMs
-
 1. **On the Effect of Pretraining Corpora on In-context Learning by a Large-scale Language Model**. ![](https://img.shields.io/badge/Abbre-DCE7F1)
    
    *Seongjin Shin, Sang-Woo Lee, Hwijeen Ahn, Sungdong Kim, HyoungSeok Kim, Boseop Kim, Kyunghyun Cho, Gichang Lee, Woomyoung Park, Jung-Woo Ha, Nako Sung*.  [[pdf](https://arxiv.org/abs/2204.13509)], [[project](link)], 2022.04, ![](https://img.shields.io/badge/NAACL2022-FAEFCA)
