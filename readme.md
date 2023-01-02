@@ -97,15 +97,21 @@ This section contains the pilot works that might contributes to the prompt selec
     ![](https://img.shields.io/badge/section-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
    - finetuning language models on a collection of tasks described via instructions 
    - substantially improves zero-shot performance on unseen tasks
+   
 9. **Active Example Selection for In-Context Learning**. ![](https://img.shields.io/badge/Abbre-DCE7F1)
    
    *Yiming Zhang, Shi Feng, Chenhao Tan*.  [[pdf](https://arxiv.org/abs/2211.04486)], [[project](https://github.com/chicagohai/active-example-selection)], 2022.11, ![](https://img.shields.io/badge/conference-FAEFCA)
     ![](https://img.shields.io/badge/section-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
+    
 10. **Prompting GPT-3 To Be Reliable establish simple and effective prompts to demonstrate GPT-3's reliability in these four aspects**![](https://img.shields.io/badge/New-EAD8D9)
-11. **An lnformation-theoretic Approach to Prompt Engineering Without Ground Truth Labels** ![](https://img.shields.io/badge/New-EAD8D9)
-12. **Self-adaptive In-context Learning** ![](https://img.shields.io/badge/New-EAD8D9)
-13. **Demystifying Prompts in Language Models via Perplexity Estimation** ![](https://img.shields.io/badge/New-EAD8D9)
-14. **Structured Prompting: Scaling In-Context Learning to 1,000 Examples** ![](https://img.shields.io/badge/New-EAD8D9)
+
+12. **An lnformation-theoretic Approach to Prompt Engineering Without Ground Truth Labels** ![](https://img.shields.io/badge/New-EAD8D9)
+
+14. **Self-adaptive In-context Learning** ![](https://img.shields.io/badge/New-EAD8D9)
+
+16. **Demystifying Prompts in Language Models via Perplexity Estimation** ![](https://img.shields.io/badge/New-EAD8D9)
+
+18. **Structured Prompting: Scaling In-Context Learning to 1,000 Examples** ![](https://img.shields.io/badge/New-EAD8D9)
 
 15. **Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity**. ![](https://img.shields.io/badge/Abbre-DCE7F1)
    
@@ -212,22 +218,27 @@ This section contains the pilot works that might contributes to the evaluation o
    
    *Aarohi Srivastava, Abhinav Rastogi, Abhishek Rao, Abu Awal Md Shoeb, Abubakar Abid, Adam Fisch, Adam R. Brown, Adam Santoro, Aditya Gupta, Adrià Garriga-Alonso, Agnieszka Kluska, Aitor Lewkowycz, Akshat Agarwal, Alethea Power, Alex Ray, Alex Warstadt et. al.*.  [[pdf](https://arxiv.org/abs/2206.04615)], [[project](https://github.com/google/BIG-bench)], 2022.06, ![](https://img.shields.io/badge/conference-FAEFCA)
     ![](https://img.shields.io/badge/evaluation-EAD8D9) ![](https://img.shields.io/badge/large_scale-D8D0E1)
+    
 2. **SUPER-NATURALINSTRUCTIONS: Generalization via Declarative Instructions on 1600+ NLP Task**. ![](https://img.shields.io/badge/natural_instructions-DCE7F1)
    
    *Yizhong Wang, Swaroop Mishra, Pegah Alipoormolabashi, Yeganeh Kordi, Amirreza Mirzaei, Anjana Arunkumar, Arjun Ashok, Arut Selvan Dhanasekaran, Atharva Naik, David Stap, Eshaan Pathak, Giannis Karamanolakis, Haizhi Gary Lai, Ishan Purohit et. al.*.  [[pdf](https://arxiv.org/abs/2204.07705)], [[project](https://github.com/allenai/natural-instructions)], 2022.04, ![](https://img.shields.io/badge/EMNLP2022-FAEFCA)
     ![](https://img.shields.io/badge/None-EAD8D9) ![](https://img.shields.io/badge/instruction_tuning-D8D0E1)
+    
 3. **Language Models are Multilingual Chain-of-Thought Reasoners**. ![](https://img.shields.io/badge/Abbre-DCE7F1)
    
    *Freda Shi, Mirac Suzgun, Markus Freitag, Xuezhi Wang, Suraj Srivats, Soroush Vosoughi, Hyung Won Chung, Yi Tay, Sebastian Ruder, Denny Zhou, Dipanjan Das, Jason Wei*.  [[pdf](https://arxiv.org/abs/2210.03057)], [[project](link)], 2022.10, ![](https://img.shields.io/badge/conference-FAEFCA)
     ![](https://img.shields.io/badge/evaluation-EAD8D9) ![](https://img.shields.io/badge/multilingual-D8D0E1)
    - evaluate the reasoning abilities of large language models in multilingual settings, introduce the Multilingual Grade School Math (MGSM) benchmark, by manually translating 250 grade-school math problems from the GSM8K dataset into ten typologically diverse languages.
+  
 4. **Instruction Induction: From Few Examples to Natural Language Task Descriptions**. ![](https://img.shields.io/badge/Instruction_Induction-DCE7F1)
    
    *Or Honovich, Uri Shaham, Samuel R. Bowman, Omer Levy*.  [[pdf](https://arxiv.org/abs/2205.10782)], [[project](https://github.com/orhonovich/instruction-induction)], 2022.05, ![](https://img.shields.io/badge/conference-FAEFCA)
     ![](https://img.shields.io/badge/evaluation-EAD8D9) ![](https://img.shields.io/badge/learn_task_instructions-D8D0E1)
    - how to learn task instructions from input output demonstrations
+ 
 5. **Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought**2022.10.3  ![](https://img.shields.io/badge/New-EAD8D9)
-6. **What is Not in the Context? Evaluation of Few-shot Learners with Informative Demonstrations** 2212.01692.pdf (arxiv.org)  ![](https://img.shields.io/badge/New-EAD8D9)
+
+7. **What is Not in the Context? Evaluation of Few-shot Learners with Informative Demonstrations** 2212.01692.pdf (arxiv.org)  ![](https://img.shields.io/badge/New-EAD8D9)
 
 
 
@@ -239,16 +250,20 @@ This section contains the pilot works that expands the application of ICL.
    
    *Yanda Chen, Ruiqi Zhong, Sheng Zha, George Karypis, He He*.  [[pdf](https://arxiv.org/abs/2110.07814)], [[project](https://github.com/yandachen/in-context-tuning)], 2021.10, ![](https://img.shields.io/badge/ACL2022-FAEFCA)
     ![](https://img.shields.io/badge/application-EAD8D9) ![](https://img.shields.io/badge/Meta-learning-D8D0E1)
+    
 2. **Does GPT-3 Generate Empathetic Dialogues? A Novel In-Context Example Selection Method and Automatic Evaluation Metric for Empathetic Dialogue Generation**. ![](https://img.shields.io/badge/Abbre-DCE7F1)
    
    *Young-Jun Lee, Chae-Gyun Lim, Ho-Jin Choi*.  [[pdf](https://aclanthology.org/2022.coling-1.56/)], [[project](link)], 2022.10, ![](https://img.shields.io/badge/COLING2022-FAEFCA)
     ![](https://img.shields.io/badge/application-EAD8D9) ![](https://img.shields.io/badge/dialogue_generation-D8D0E1)
+    
 3. **In-context Learning Distillation: Transferring Few-shot Learning Ability of Pre-trained Language Models**. ![](https://img.shields.io/badge/ICL_Distillation-DCE7F1)
    
    *Yukun Huang, Yanda Chen, Zhou Yu, Kathleen McKeown*.  [pdf](https://arxiv.org/abs/2212.10670), [[project](link)], 2022.12, ![](https://img.shields.io/badge/conference-FAEFCA)
     ![](https://img.shields.io/badge/challenge-EAD8D9) ![](https://img.shields.io/badge/distillation-D8D0E1)
+    
 4. **In-context Learning Distillation: Transferring Few-shot Learning Ability of Pre-trained Language Models** ![](https://img.shields.io/badge/New-EAD8D9)
-5. **Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions**![](https://img.shields.io/badge/New-EAD8D9)
+
+6. **Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions**![](https://img.shields.io/badge/New-EAD8D9)
 
 ### Problems
 
