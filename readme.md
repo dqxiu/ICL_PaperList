@@ -289,6 +289,21 @@ This section contains the pilot works that might contributes to the challenges a
 - Add new papers to the corresponding part and mark with ![](https://img.shields.io/badge/New-EAD8D9) if the paper has not been included in our survey.
 - If the ![](https://img.shields.io/badge/New-EAD8D9) paper is included in the survey, please replace the ![](https://img.shields.io/badge/New-EAD8D9) to the specific section. e.g., ![](https://img.shields.io/badge/Analysis-EAD8D9), and add other basic info about this paper, such as authors, conference.
 - If you think the paper does not belong in your section, please move it to another section with the ![](https://img.shields.io/badge/New-EAD8D9) tag.
+
+
+## Citations
+Please consider citing our papers in your publications if the project helps your research. BibTeX reference is as follows.
+```
+@misc{dong2022survey,
+      title={A Survey for In-context Learning}, 
+      author={Qingxiu Dong and Lei Li and Damai Dai and Ce Zheng and Zhiyong Wu and Baobao Chang and Xu Sun and Jingjing Xu and Lei Li and Zhifang Sui},
+      year={2022},
+      eprint={2301.00234},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
 <!-- - **Recent todo:** 
   - I will add the paper link, project link, date, conference for all the paper (except the new papers), please renew the ![](https://img.shields.io/badge/Abbre-DCE7F1), ![](https://img.shields.io/badge/section-EAD8D9) and ![](https://img.shields.io/badge/feature-D8D0E1) for each paper belongs to your section.
   - Since there is a section title, why should we renew ![](https://img.shields.io/badge/section-EAD8D9)? This is for you to check and make sure that the paper is already added in your section.
