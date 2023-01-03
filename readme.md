@@ -169,6 +169,11 @@ This section contains the pilot works that might contributes to the influence fa
    
    *Seongjin Shin, Sang-Woo Lee, Hwijeen Ahn, Sungdong Kim, HyoungSeok Kim, Boseop Kim, Kyunghyun Cho, Gichang Lee, Woo-Myoung Park, Jung-Woo Ha, Nako Sung*.  [[pdf](https://arxiv.org/abs/2204.13509)], [[project](link)], 2022.08, ![](https://img.shields.io/badge/NAACL2022-FAEFCA)
     ![](https://img.shields.io/badge/Analysis-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
+    
+6. **Rethinking the Role of Scale for In-Context Learning: An Interpretability-based Case Study at 66 Billion Scale** ![](https://img.shields.io/badge/corpus-DCE7F1)
+   
+   *Hritik Bansal, Karthik Gopalakrishnan, Saket Dingliwal, Sravan Bodapati, Katrin Kirchhoff, Dan Roth*.  [[pdf](https://arxiv.org/abs/2212.09095)], [[project](https://github.com/amazon-science/llm-interpret)], 2022.12, ![](https://img.shields.io/badge/arxiv-FAEFCA)
+    ![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/rethinking_scale-D8D0E1)
 
 #### Working Mechanism of ICL
 
