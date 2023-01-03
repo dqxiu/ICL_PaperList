@@ -25,7 +25,7 @@
 
 This is a paper list about **In-context learning**, for the following paper:
 
-> [**A Survey on In-context Learning**](https://arxiv.org/abs/2301.00234),            
+> [**A Survey for In-context Learning**](https://arxiv.org/abs/2301.00234),            
 > Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Zhiyong Wu, Baobao Chang, Xu Sun, Jingjing Xu, Lei Li, Zhifang Sui   
 > *arXiv preprint ([arXiv 2301.00234](https://arxiv.org/abs/2301.00234))* 
 
