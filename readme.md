@@ -109,13 +109,16 @@ This section contains the pilot works that might contributes to the prompt selec
     
 10. **Prompting GPT-3 To Be Reliable establish simple and effective prompts to demonstrate GPT-3's reliability in these four aspects**![](https://img.shields.io/badge/New-EAD8D9)
 
-12. **An lnformation-theoretic Approach to Prompt Engineering Without Ground Truth Labels** ![](https://img.shields.io/badge/New-EAD8D9)
+11. **An lnformation-theoretic Approach to Prompt Engineering Without Ground Truth Labels** ![](https://img.shields.io/badge/New-EAD8D9)
 
-14. **Self-adaptive In-context Learning** ![](https://img.shields.io/badge/New-EAD8D9)
+12. **Self-adaptive In-context Learning** ![](https://img.shields.io/badge/New-EAD8D9)
 
-16. **Demystifying Prompts in Language Models via Perplexity Estimation** ![](https://img.shields.io/badge/New-EAD8D9)
+13. **Demystifying Prompts in Language Models via Perplexity Estimation** ![](https://img.shields.io/badge/New-EAD8D9)
 
-18. **Structured Prompting: Scaling In-Context Learning to 1,000 Examples** ![](https://img.shields.io/badge/New-EAD8D9)
+
+14. **Structured Prompting: Scaling In-Context Learning to 1,000 Examples** ![](https://img.shields.io/badge/New-EAD8D9)
+*Yaru Hao, Yutao Sun, Li Dong, Zhixiong Han, Yuxian Gu, Furu Wei*. [[pdf](https://arxiv.org/abs/2212.06713)], [[project](https://github.com/microsoft/LMOps)], 2022.12.
+
 
 15. **Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity**. ![](https://img.shields.io/badge/Abbre-DCE7F1)
    
@@ -131,6 +134,9 @@ This section contains the pilot works that might contributes to the prompt selec
    
    *Andrew K. Lampinen, Ishita Dasgupta, Stephanie C. Y. Chan, Kory Matthewson, Michael Henry Tessler, Antonia Creswell, James L. McClelland, Jane X. Wang, Felix Hill*.  [[pdf](link)], [[project](link)], 2022.04 ![](https://img.shields.io/badge/ArXiv-FAEFCA)
     ![](https://img.shields.io/badge/None-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
+
+18. **Prototypical Calibration for Few-shot Learning of Language Models** ![](https://img.shields.io/badge/New-EAD8D9)
+*Zhixiong Han, Yaru Hao, Li Dong, Furu Wei*. [[pdf](https://arxiv.org/abs/2205.10183)], [[project](https://github.com/microsoft/LMOps)], 2022.05.
 
 
 ### Analysis of ICL
@@ -198,7 +204,7 @@ This section contains the pilot works that might contributes to the influence fa
     
 7.  **Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers** ![](https://img.shields.io/badge/meta_optimizer-DCE7F1)
    
-   *Damai Dai, Yutao Sun, Li Dong, Yaru Hao, Zhifang Sui, Furu Wei*.  [[pdf](link)], [[project](link)], 2022.12 ![](https://img.shields.io/badge/ArXiv-FAEFCA)
+   *Damai Dai, Yutao Sun, Li Dong, Yaru Hao, Zhifang Sui, Furu Wei*.  [[pdf](https://arxiv.org/abs/2212.10559)], [[project](https://github.com/microsoft/LMOps)], 2022.12 ![](https://img.shields.io/badge/ArXiv-FAEFCA)
    ![](https://img.shields.io/badge/Analysis-EAD8D9) ![](https://img.shields.io/badge/feature-D8D0E1)
 
 <!-- 10. **Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts**. ![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/negated-DCE7F1)
