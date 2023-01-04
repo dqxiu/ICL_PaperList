@@ -162,6 +162,11 @@ This section contains the pilot works that might contributes to the influence fa
 7. **Data Distributional Properties Drive Emergent In-Context Learning in Transformers** ![](https://img.shields.io/badge/corpus-DCE7F1)
 
    *Stephanie C.Y. Chan, Adam Santoro, Andrew K. Lampinen, Jane X. Wang, Aaditya Singh, Pierre H. Richemond, Jay McClelland, Felix Hill*.  [[pdf](https://arxiv.org/pdf/2205.05055.pdf)], [[project](https://github.com/deepmind/emergent_in_context_learning)], 2022.05, ![](https://img.shields.io/badge/NeurIPS2022-FAEFCA)
+   
+8. **Diverse Demonstrations Improve In-context Compositional Generalization** ![](https://img.shields.io/badge/diverse_demonstration-DCE7F1)
+
+   *Itay Levy, Ben Bogin, Jonathan Berant*.  [[pdf](https://arxiv.org/abs/2212.06800)], [[project](https://github.com/itayle/diverse-demonstrations)], 2022.12, ![](https://img.shields.io/badge/arxiv-FAEFCA)
+   
 
 #### Working Mechanism of ICL
 
