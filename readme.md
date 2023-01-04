@@ -266,7 +266,18 @@ This section contains the pilot works that points out the problems of ICL.
 
 This section contains the pilot works that might contributes to the challenges and future directions of ICL.
 
-### How to contribute?
+
+## Blogs
+
+[SEO is Dead, Long Live LLMO](https://jina.ai/news/seo-is-dead-long-live-llmo/)
+
+[How does in-context learning work? A framework for understanding the differences from traditional supervised learning](http://ai.stanford.edu/blog/understanding-incontext/)
+
+[Extrapolating to Unnatural Language Processing with GPT-3's In-context Learning: The Good, the Bad, and the Mysterious](http://ai.stanford.edu/blog/in-context-learning/)
+
+[More Efficient In-Context Learning with GLaM](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html)
+
+## How to contribute?
 
 - Add new papers to the corresponding part and mark with ![](https://img.shields.io/badge/New-EAD8D9) if the paper has not been included in our survey.
 - If the ![](https://img.shields.io/badge/New-EAD8D9) paper is included in the survey, please replace the ![](https://img.shields.io/badge/New-EAD8D9) to the specific section. e.g., ![](https://img.shields.io/badge/Analysis-EAD8D9), and add other basic info about this paper, such as authors, conference.
