@@ -137,12 +137,11 @@ This section contains the pilot works that might contributes to the prompt selec
     *Hila Gonen, Srini Iyer, Terra Blevins, Noah A. Smith, Luke Zettlemoyer*.  [[pdf](https://arxiv.org/abs/2212.04037)], [[project](https://github.com/chicagohai/active-example-selection)], 2022.12, ![](https://img.shields.io/badge/arxiv-FAEFCA)
     
 14.  **Structured Prompting: Scaling In-Context Learning to 1,000 Examples** ![](https://img.shields.io/badge/New-EAD8D9)
- 
-   *Yaru Hao, Yutao Sun, Li Dong, Zhixiong Han, Yuxian Gu, Furu Wei*. [[pdf](https://arxiv.org/abs/2212.06713)], [[project](https://github.com/microsoft/LMOps)], 2022.12. ![](https://img.shields.io/badge/arxiv-FAEFCA)
+    *Yaru Hao, Yutao Sun, Li Dong, Zhixiong Han, Yuxian Gu, Furu Wei*. [[pdf](https://arxiv.org/abs/2212.06713)], [[project](https://github.com/microsoft/LMOps)], 2022.12. ![](https://img.shields.io/badge/arxiv-FAEFCA)
 
 15.  **Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity**.
 
-   *Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel, Pontus Stenetorp*.  [[pdf](https://arxiv.org/abs/2104.08786)], 2021.04, ![](https://img.shields.io/badge/ACL2021-FAEFCA)
+  *Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel, Pontus Stenetorp*.  [[pdf](https://arxiv.org/abs/2104.08786)], 2021.04, ![](https://img.shields.io/badge/ACL2021-FAEFCA)
     ![](https://img.shields.io/badge/Analysis-EAD8D9)
 
 16.  **On the Relation between Sensitivity and Accuracy in In-context Learning**.
