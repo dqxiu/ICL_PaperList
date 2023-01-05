@@ -27,7 +27,7 @@
 This is a paper list (working in progress) about **In-context learning**, for the following paper:
 
 > [**A Survey for In-context Learning**](https://arxiv.org/abs/2301.00234),
-> Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Zhiyong Wu, Baobao Chang, Xu Sun, Jingjing Xu, Lei Li, Zhifang Sui
+> Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Zhiyong Wu, Baobao Chang, Xu Sun, Jingjing Xu, Lei Li, Zhifang Sui.
 > *arXiv preprint ([arXiv 2301.00234](https://arxiv.org/abs/2301.00234))*
 
 ### Keywords Convention
@@ -252,15 +252,17 @@ This section contains the pilot works that expands the application of ICL.
 
    *Yanda Chen, Ruiqi Zhong, Sheng Zha, George Karypis, He He*.  [[pdf](https://arxiv.org/abs/2110.07814)], [[project](https://github.com/yandachen/in-context-tuning)], 2021.10, ![](https://img.shields.io/badge/ACL2022-FAEFCA)
    ![](https://img.shields.io/badge/application-EAD8D9) ![](https://img.shields.io/badge/Meta-learning-D8D0E1)
+   
 2. **Does GPT-3 Generate Empathetic Dialogues? A Novel In-Context Example Selection Method and Automatic Evaluation Metric for Empathetic Dialogue Generation**. 
 
    *Young-Jun Lee, Chae-Gyun Lim, Ho-Jin Choi*.  [[pdf](https://aclanthology.org/2022.coling-1.56/)], 2022.10, ![](https://img.shields.io/badge/COLING2022-FAEFCA)
    ![](https://img.shields.io/badge/application-EAD8D9) ![](https://img.shields.io/badge/dialogue_generation-D8D0E1)
+   
 3. **In-context Learning Distillation: Transferring Few-shot Learning Ability of Pre-trained Language Models**. ![](https://img.shields.io/badge/ICL_Distillation-DCE7F1)
 
-   *Yukun Huang, Yanda Chen, Zhou Yu, Kathleen McKeown*.  [pdf](https://arxiv.org/abs/2212.10670), 2022.12, ![](https://img.shields.io/badge/conference-FAEFCA)
+   *Yukun Huang, Yanda Chen, Zhou Yu, Kathleen McKeown*.  [[pdf](https://arxiv.org/abs/2212.10670)], 2022.12, ![](https://img.shields.io/badge/conference-FAEFCA)
    ![](https://img.shields.io/badge/challenge-EAD8D9) ![](https://img.shields.io/badge/distillation-D8D0E1)
-4. **In-context Learning Distillation: Transferring Few-shot Learning Ability of Pre-trained Language Models** ![](https://img.shields.io/badge/New-EAD8D9)
+
 5. **Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions**![](https://img.shields.io/badge/New-EAD8D9)
 
 ### Problems
