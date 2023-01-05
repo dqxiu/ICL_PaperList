@@ -24,11 +24,13 @@
 
 ## Introduction
 
-This is a paper list (working in progress) about **In-context learning**, for the following paper:
+This is a paper list (working in progress) about **In-context learning**
+
+<!-- , for the following paper:
 
 > [**A Survey for In-context Learning**](https://arxiv.org/abs/2301.00234),
 > Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Zhiyong Wu, Baobao Chang, Xu Sun, Jingjing Xu, Lei Li, Zhifang Sui.
-> *arXiv preprint ([arXiv 2301.00234](https://arxiv.org/abs/2301.00234))*
+> *arXiv preprint ([arXiv 2301.00234](https://arxiv.org/abs/2301.00234))* -->
 
 ### Keywords Convention
 
@@ -41,6 +43,12 @@ This is a paper list (working in progress) about **In-context learning**, for th
 ![](https://img.shields.io/badge/ACL2022CL2022-FAEFCA) conference
 
 ## Papers
+
+### Survey
+
+1. **A Survey for In-context Learning**. ![](https://img.shields.io/badge/MetaICL-DCE7F1)
+
+   *Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Zhiyong Wu, Baobao Chang, Xu Sun, Jingjing Xu, Lei Li, Zhifang Sui*.  [[pdf](https://arxiv.org/abs/2301.00234)], 2022.12, ![](https://img.shields.io/badge/arxiv-FAEFCA)
 
 ### Model Warmup for ICL
 
@@ -294,9 +302,11 @@ This section contains the pilot works that might contributes to the challenges a
 - If the ![](https://img.shields.io/badge/New-EAD8D9) paper is included in the survey, please replace the ![](https://img.shields.io/badge/New-EAD8D9) to the specific section. e.g., ![](https://img.shields.io/badge/Analysis-EAD8D9), and add other basic info about this paper, such as authors, conference.
 - If you think the paper does not belong in your section, please move it to another section with the ![](https://img.shields.io/badge/New-EAD8D9) tag.
 
-## Citations
+<!-- ## Citations -->
+## Reference
 
-Please consider citing our papers in your publications if the project helps your research. BibTeX reference is as follows.
+<!-- Please consider citing our papers in your publications if the project helps your research. BibTeX reference is as follows. -->
+Some papers are discussed in the following paper:
 
 ```
 @misc{dong2022survey,
