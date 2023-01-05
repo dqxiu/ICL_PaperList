@@ -88,27 +88,27 @@ This section contains the pilot works that might contributes to the prompt selec
 
    *Denny Zhou, Nathanael Schärli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Claire Cui, Olivier Bousquet, Quoc Le, Ed Chi*.  [[pdf](https://arxiv.org/abs/2205.10625)], 2022.05, ![](https://img.shields.io/badge/conference-FAEFCA)
    ![](https://img.shields.io/badge/section-EAD8D9)
-   
+
 4. **Self-Generated In-Context Learning: Leveraging Auto-regressive Language Models as a Demonstration Generator**.
 
    *Hyuhng Joon Kim, Hyunsoo Cho, Junyeob Kim, Taeuk Kim, Kang Min Yoo, Sang-goo Lee*.  [[pdf](https://arxiv.org/abs/2206.08082)], 2022.06, ![](https://img.shields.io/badge/NAACL_2022_Workshop-FAEFCA)
    ![](https://img.shields.io/badge/prompt-EAD8D9)
-   
+
 5. **Iteratively Prompt Pre-trained Language Models for Chain of Thought**.
 
    *Boshi Wang, Xiang Deng, Huan Sun*.  [[pdf](https://arxiv.org/abs/2203.08383)], [[project](https://github.com/sunlab-osu/iterprompt)], 2022.03, ![](https://img.shields.io/badge/EMNLP2022-FAEFCA)
    ![](https://img.shields.io/badge/prompt-EAD8D9)
-   
+
 6. **Automatic Chain of Thought Prompting in Large Language Models**.
 
    *Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola*.  [[pdf](https://arxiv.org/abs/2210.03493)], [[project](https://github.com/amazon-research/auto-cot)], 2022.10, ![](https://img.shields.io/badge/conference-FAEFCA)
    ![](https://img.shields.io/badge/prompt-EAD8D9)
-   
+
 7. **Learning To Retrieve Prompts for In-Context Learning NAACL 2022 Learn an example retriever via contrastive learning**.
 
    *Ohad Rubin, Jonathan Herzig, Jonathan Berant*.  [[pdf](https://arxiv.org/abs/2112.08633)], [[project](https://github.com/ohadrubin/epr)], 2022.12, ![](https://img.shields.io/badge/conference-FAEFCA)
    ![](https://img.shields.io/badge/prompt-EAD8D9)
-   
+
 8. **Finetuned Language Models Are Zero-Shot Learners instruction tuning**.
 
    *Jason Wei, Maarten Bosma, Vincent Y. Zhao, Kelvin Guu, Adams Wei Yu, Brian Lester, Nan Du, Andrew M. Dai, Quoc V. Le*.  [[pdf](https://arxiv.org/abs/2109.01652)], [[project](https://github.com/google-research/flan)], 2021.09, ![](https://img.shields.io/badge/conference-FAEFCA)
@@ -120,44 +120,45 @@ This section contains the pilot works that might contributes to the prompt selec
 9. **Active Example Selection for In-Context Learning**.
 
    *Yiming Zhang, Shi Feng, Chenhao Tan*.  [[pdf](https://arxiv.org/abs/2211.04486)], [[project](https://github.com/chicagohai/active-example-selection)], 2022.11, ![](https://img.shields.io/badge/arxiv-FAEFCA)
-   
 
 10. **Prompting GPT-3 To Be Reliable**![](https://img.shields.io/badge/New-EAD8D9)
+    
     *Chenglei Si, Zhe Gan, Zhengyuan Yang, Shuohang Wang, Jianfeng Wang, Jordan Boyd-Graber, Lijuan Wang*.  [[pdf](https://arxiv.org/abs/2210.09150)], [[project](https://github.com/noviscl/gpt3-reliability)], 2022.10, ![](https://img.shields.io/badge/arxiv-FAEFCA)
-    
-    
+
 11. **An lnformation-theoretic Approach to Prompt Engineering Without Ground Truth Labels** ![](https://img.shields.io/badge/New-EAD8D9)
+
     *Taylor Sorensen, Joshua Robinson, Christopher Rytting, Alexander Shaw, Kyle Rogers, Alexia Delorey, Mahmoud Khalil, Nancy Fulda, David Wingate*.  [[pdf](https://aclanthology.org/2022.acl-long.60/)], 2022.5, ![](https://img.shields.io/badge/ACL2022-FAEFCA)
    ![](https://img.shields.io/badge/prompt-EAD8D9)
+
+12. **Self-adaptive In-context Learning** ![](https://img.shields.io/badge/New-EAD8D9)
     
-12.  **Self-adaptive In-context Learning** ![](https://img.shields.io/badge/New-EAD8D9)
     *Zhiyong Wu, Yaoxiang Wang, Jiacheng Ye, Lingpeng Kong*.  [[pdf](https://arxiv.org/abs/2212.10375)], [[project](https://github.com/shark-nlp/self-adaptive-icl)], 2022.12, ![](https://img.shields.io/badge/arxiv-FAEFCA)
+
+13. **Demystifying Prompts in Language Models via Perplexity Estimation** ![](https://img.shields.io/badge/New-EAD8D9)
     
-13.  **Demystifying Prompts in Language Models via Perplexity Estimation** ![](https://img.shields.io/badge/New-EAD8D9)
     *Hila Gonen, Srini Iyer, Terra Blevins, Noah A. Smith, Luke Zettlemoyer*.  [[pdf](https://arxiv.org/abs/2212.04037)], [[project](https://github.com/chicagohai/active-example-selection)], 2022.12, ![](https://img.shields.io/badge/arxiv-FAEFCA)
+
+14. **Structured Prompting: Scaling In-Context Learning to 1,000 Examples**. ![](https://img.shields.io/badge/New-EAD8D9)
     
-14.  **Structured Prompting: Scaling In-Context Learning to 1,000 Examples** ![](https://img.shields.io/badge/New-EAD8D9)
     *Yaru Hao, Yutao Sun, Li Dong, Zhixiong Han, Yuxian Gu, Furu Wei*. [[pdf](https://arxiv.org/abs/2212.06713)], [[project](https://github.com/microsoft/LMOps)], 2022.12. ![](https://img.shields.io/badge/arxiv-FAEFCA)
 
-15.  **Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity**.
+15. **Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity**.
 
-  *Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel, Pontus Stenetorp*.  [[pdf](https://arxiv.org/abs/2104.08786)], 2021.04, ![](https://img.shields.io/badge/ACL2021-FAEFCA)
-    ![](https://img.shields.io/badge/Analysis-EAD8D9)
-
-16.  **On the Relation between Sensitivity and Accuracy in In-context Learning**.
+   *Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel, Pontus Stenetorp*.  [[pdf](https://arxiv.org/abs/2104.08786)], 2021.04, ![](https://img.shields.io/badge/ACL2021-FAEFCA) ![](https://img.shields.io/badge/Analysis-EAD8D9)
+   
+16. **On the Relation between Sensitivity and Accuracy in In-context Learning**.
 
    *Yanda Chen, Chen Zhao, Zhou Yu, Kathleen McKeown, He He*.  [[pdf](https://arxiv.org/abs/2209.07661)], 2022.09, ![](https://img.shields.io/badge/conference-FAEFCA)
     ![](https://img.shields.io/badge/Analysis-EAD8D9)
 
-17.  **Can language models learn from explanations in context?**. ![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/explanations-DCE7F1)
+17. **Can language models learn from explanations in context?**. ![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/explanations-DCE7F1)
 
    *Andrew K. Lampinen, Ishita Dasgupta, Stephanie C. Y. Chan, Kory Matthewson, Michael Henry Tessler, Antonia Creswell, James L. McClelland, Jane X. Wang, Felix Hill*.  [[pdf](https://arxiv.org/pdf/2204.02329.pdf)], 2022.04 ![](https://img.shields.io/badge/ArXiv-FAEFCA)
 
 18. **Prototypical Calibration for Few-shot Learning of Language Models** ![](https://img.shields.io/badge/New-EAD8D9)
     *Zhixiong Han, Yaru Hao, Li Dong, Furu Wei*. [[pdf](https://arxiv.org/abs/2205.10183)], [[project](https://github.com/microsoft/LMOps)], 2022.05.
-    
 
-19.  **Cross-Task Generalization via Natural Language Crowdsourcing Instructions**. ![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/unseen_task_generalization-DCE7F1)
+19. **Cross-Task Generalization via Natural Language Crowdsourcing Instructions**. ![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/unseen_task_generalization-DCE7F1)
 
    *Swaroop Mishra, Daniel Khashabi, Chitta Baral, Hannaneh Hajishirzi*.  [[pdf](https://arxiv.org/abs/2104.08773)], [[project](https://github.com/allenai/natural-instructions)], 2022.03 ![](https://img.shields.io/badge/ACL2022-FAEFCA)
 
@@ -204,7 +205,7 @@ This section contains the pilot works that might contributes to the influence fa
 8. **Diverse Demonstrations Improve In-context Compositional Generalization** ![](https://img.shields.io/badge/diverse_demonstration-DCE7F1)
 
    *Itay Levy, Ben Bogin, Jonathan Berant*.  [[pdf](https://arxiv.org/abs/2212.06800)], [[project](https://github.com/itayle/diverse-demonstrations)], 2022.12, ![](https://img.shields.io/badge/arxiv-FAEFCA)
-   
+
 9. **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters** ![](https://img.shields.io/badge/understanding_cot-DCE7F1)
 
    *Boshi Wang, Sewon Min, Xiang Deng, Jiaming Shen, You Wu, Luke Zettlemoyer, Huan Sun*.  [[pdf](https://arxiv.org/abs/2212.10001)], [[project](https://github.com/sunlab-osu/understanding-cot)], 2022.12, ![](https://img.shields.io/badge/arxiv-FAEFCA)    ![](https://img.shields.io/badge/New-EAD8D9)
@@ -356,4 +357,3 @@ Some papers are discussed in the following paper:
   - I will add the paper link, project link, date, conference for all the paper (except the new papers), please renew the , ![](https://img.shields.io/badge/section-EAD8D9) and  for each paper belongs to your section.
   - Since there is a section title, why should we renew ![](https://img.shields.io/badge/section-EAD8D9)? This is for you to check and make sure that the paper is already added in your section.
   - As there's no paper for intro, lei please add the basic info for all the ![](https://img.shields.io/badge/New-EAD8D9) papers, but please retain the ![](https://img.shields.io/badge/New-EAD8D9) tag, rather than replace it with the ![](https://img.shields.io/badge/XXXSection-EAD8D9). -->
-
