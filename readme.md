@@ -46,7 +46,7 @@ This is a paper list (working in progress) about **In-context learning**
 
 ### Survey
 
-1. **A Survey for In-context Learning**. ![](https://img.shields.io/badge/MetaICL-DCE7F1)
+1. **A Survey for In-context Learning**. ![](https://img.shields.io/badge/ICL_survey-DCE7F1)
 
    *Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Zhiyong Wu, Baobao Chang, Xu Sun, Jingjing Xu, Lei Li, Zhifang Sui*.  [[pdf](https://arxiv.org/abs/2301.00234)], 2022.12, ![](https://img.shields.io/badge/arxiv-FAEFCA)
 
