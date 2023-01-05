@@ -88,22 +88,27 @@ This section contains the pilot works that might contributes to the prompt selec
 
    *Denny Zhou, Nathanael Schärli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Claire Cui, Olivier Bousquet, Quoc Le, Ed Chi*.  [[pdf](https://arxiv.org/abs/2205.10625)], 2022.05, ![](https://img.shields.io/badge/conference-FAEFCA)
    ![](https://img.shields.io/badge/section-EAD8D9)
+   
 4. **Self-Generated In-Context Learning: Leveraging Auto-regressive Language Models as a Demonstration Generator**.
 
    *Hyuhng Joon Kim, Hyunsoo Cho, Junyeob Kim, Taeuk Kim, Kang Min Yoo, Sang-goo Lee*.  [[pdf](https://arxiv.org/abs/2206.08082)], 2022.06, ![](https://img.shields.io/badge/NAACL_2022_Workshop-FAEFCA)
    ![](https://img.shields.io/badge/prompt-EAD8D9)
+   
 5. **Iteratively Prompt Pre-trained Language Models for Chain of Thought**.
 
    *Boshi Wang, Xiang Deng, Huan Sun*.  [[pdf](https://arxiv.org/abs/2203.08383)], [[project](https://github.com/sunlab-osu/iterprompt)], 2022.03, ![](https://img.shields.io/badge/EMNLP2022-FAEFCA)
    ![](https://img.shields.io/badge/prompt-EAD8D9)
+   
 6. **Automatic Chain of Thought Prompting in Large Language Models**.
 
    *Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola*.  [[pdf](https://arxiv.org/abs/2210.03493)], [[project](https://github.com/amazon-research/auto-cot)], 2022.10, ![](https://img.shields.io/badge/conference-FAEFCA)
    ![](https://img.shields.io/badge/prompt-EAD8D9)
+   
 7. **Learning To Retrieve Prompts for In-Context Learning NAACL 2022 Learn an example retriever via contrastive learning**.
 
    *Ohad Rubin, Jonathan Herzig, Jonathan Berant*.  [[pdf](https://arxiv.org/abs/2112.08633)], [[project](https://github.com/ohadrubin/epr)], 2022.12, ![](https://img.shields.io/badge/conference-FAEFCA)
    ![](https://img.shields.io/badge/prompt-EAD8D9)
+   
 8. **Finetuned Language Models Are Zero-Shot Learners instruction tuning**.
 
    *Jason Wei, Maarten Bosma, Vincent Y. Zhao, Kelvin Guu, Adams Wei Yu, Brian Lester, Nan Du, Andrew M. Dai, Quoc V. Le*.  [[pdf](https://arxiv.org/abs/2109.01652)], [[project](https://github.com/google-research/flan)], 2021.09, ![](https://img.shields.io/badge/conference-FAEFCA)
@@ -132,8 +137,8 @@ This section contains the pilot works that might contributes to the prompt selec
     *Hila Gonen, Srini Iyer, Terra Blevins, Noah A. Smith, Luke Zettlemoyer*.  [[pdf](https://arxiv.org/abs/2212.04037)], [[project](https://github.com/chicagohai/active-example-selection)], 2022.12, ![](https://img.shields.io/badge/arxiv-FAEFCA)
     
 14.  **Structured Prompting: Scaling In-Context Learning to 1,000 Examples** ![](https://img.shields.io/badge/New-EAD8D9)
-    
-    *Yaru Hao, Yutao Sun, Li Dong, Zhixiong Han, Yuxian Gu, Furu Wei*. [[pdf](https://arxiv.org/abs/2212.06713)], [[project](https://github.com/microsoft/LMOps)], 2022.12. ![](https://img.shields.io/badge/arxiv-FAEFCA)
+ 
+   *Yaru Hao, Yutao Sun, Li Dong, Zhixiong Han, Yuxian Gu, Furu Wei*. [[pdf](https://arxiv.org/abs/2212.06713)], [[project](https://github.com/microsoft/LMOps)], 2022.12. ![](https://img.shields.io/badge/arxiv-FAEFCA)
 
 15.  **Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity**.
 
