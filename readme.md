@@ -146,7 +146,7 @@ This section contains the pilot works that might contributes to the prompt selec
 
 9.  **Can language models learn from explanations in context?**. ![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/explanations-DCE7F1)
 
-   *Andrew K. Lampinen, Ishita Dasgupta, Stephanie C. Y. Chan, Kory Matthewson, Michael Henry Tessler, Antonia Creswell, James L. McClelland, Jane X. Wang, Felix Hill*.  [[pdf](link)], 2022.04 ![](https://img.shields.io/badge/ArXiv-FAEFCA)
+   *Andrew K. Lampinen, Ishita Dasgupta, Stephanie C. Y. Chan, Kory Matthewson, Michael Henry Tessler, Antonia Creswell, James L. McClelland, Jane X. Wang, Felix Hill*.  [[pdf](https://arxiv.org/pdf/2204.02329.pdf)], 2022.04 ![](https://img.shields.io/badge/ArXiv-FAEFCA)
     ![](https://img.shields.io/badge/None-EAD8D9)
 
 10. **Prototypical Calibration for Few-shot Learning of Language Models** ![](https://img.shields.io/badge/New-EAD8D9)
@@ -162,7 +162,7 @@ This section contains the pilot works that might contributes to the influence fa
 
    *Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, Luke Zettlemoyer*.  [[pdf](https://arxiv.org/abs/2202.12837)], [[project](https://github.com/alrope123/rethinking-demonstrations)], 2022.03, ![img](https://img.shields.io/badge/ArXiv-FAEFCA)
    ![img](https://img.shields.io/badge/Analysis-EAD8D9) ![img](https://img.shields.io/badge/feature-D8D0E1)
-   
+
 2. **What Makes Good In-Context Examples for GPT-3?** ![img](https://img.shields.io/badge/similarity-DCE7F1)
 
    *Jiachang Liu, Dinghan Shen, Yizhe Zhang, Bill Dolan, Lawrence Carin, Weizhu Chen*.  [[pdf](https://arxiv.org/abs/2101.06804)], 2022.08, ![img](https://img.shields.io/badge/DeeLIO@ACL-FAEFCA)
@@ -343,3 +343,4 @@ Some papers are discussed in the following paper:
   - I will add the paper link, project link, date, conference for all the paper (except the new papers), please renew the , ![](https://img.shields.io/badge/section-EAD8D9) and  for each paper belongs to your section.
   - Since there is a section title, why should we renew ![](https://img.shields.io/badge/section-EAD8D9)? This is for you to check and make sure that the paper is already added in your section.
   - As there's no paper for intro, lei please add the basic info for all the ![](https://img.shields.io/badge/New-EAD8D9) papers, but please retain the ![](https://img.shields.io/badge/New-EAD8D9) tag, rather than replace it with the ![](https://img.shields.io/badge/XXXSection-EAD8D9). -->
+
