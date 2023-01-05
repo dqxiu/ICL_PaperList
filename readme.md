@@ -111,7 +111,7 @@ This section contains the pilot works that might contributes to the prompt selec
 
    - finetuning language models on a collection of tasks described via instructions
    - substantially improves zero-shot performance on unseen tasks
- - 
+  
 1. **Active Example Selection for In-Context Learning**.
 
    *Yiming Zhang, Shi Feng, Chenhao Tan*.  [[pdf](https://arxiv.org/abs/2211.04486)], [[project](https://github.com/chicagohai/active-example-selection)], 2022.11, ![](https://img.shields.io/badge/arxiv-FAEFCA)
