@@ -112,45 +112,50 @@ This section contains the pilot works that might contributes to the prompt selec
    - finetuning language models on a collection of tasks described via instructions
    - substantially improves zero-shot performance on unseen tasks
   
-1. **Active Example Selection for In-Context Learning**.
+9. **Active Example Selection for In-Context Learning**.
 
    *Yiming Zhang, Shi Feng, Chenhao Tan*.  [[pdf](https://arxiv.org/abs/2211.04486)], [[project](https://github.com/chicagohai/active-example-selection)], 2022.11, ![](https://img.shields.io/badge/arxiv-FAEFCA)
+   
 
-2.  **Prompting GPT-3 To Be Reliable**![](https://img.shields.io/badge/New-EAD8D9)
+10. **Prompting GPT-3 To Be Reliable**![](https://img.shields.io/badge/New-EAD8D9)
     *Chenglei Si, Zhe Gan, Zhengyuan Yang, Shuohang Wang, Jianfeng Wang, Jordan Boyd-Graber, Lijuan Wang*.  [[pdf](https://arxiv.org/abs/2210.09150)], [[project](https://github.com/noviscl/gpt3-reliability)], 2022.10, ![](https://img.shields.io/badge/arxiv-FAEFCA)
-
     
-3.  **An lnformation-theoretic Approach to Prompt Engineering Without Ground Truth Labels** ![](https://img.shields.io/badge/New-EAD8D9)
+    
+11. **An lnformation-theoretic Approach to Prompt Engineering Without Ground Truth Labels** ![](https://img.shields.io/badge/New-EAD8D9)
     *Taylor Sorensen, Joshua Robinson, Christopher Rytting, Alexander Shaw, Kyle Rogers, Alexia Delorey, Mahmoud Khalil, Nancy Fulda, David Wingate*.  [[pdf](https://aclanthology.org/2022.acl-long.60/)], 2022.5, ![](https://img.shields.io/badge/ACL2022-FAEFCA)
    ![](https://img.shields.io/badge/prompt-EAD8D9)
     
-4.  **Self-adaptive In-context Learning** ![](https://img.shields.io/badge/New-EAD8D9)
+12.  **Self-adaptive In-context Learning** ![](https://img.shields.io/badge/New-EAD8D9)
     *Zhiyong Wu, Yaoxiang Wang, Jiacheng Ye, Lingpeng Kong*.  [[pdf](https://arxiv.org/abs/2212.10375)], [[project](https://github.com/shark-nlp/self-adaptive-icl)], 2022.12, ![](https://img.shields.io/badge/arxiv-FAEFCA)
     
-5.  **Demystifying Prompts in Language Models via Perplexity Estimation** ![](https://img.shields.io/badge/New-EAD8D9)
+13.  **Demystifying Prompts in Language Models via Perplexity Estimation** ![](https://img.shields.io/badge/New-EAD8D9)
     *Hila Gonen, Srini Iyer, Terra Blevins, Noah A. Smith, Luke Zettlemoyer*.  [[pdf](https://arxiv.org/abs/2212.04037)], [[project](https://github.com/chicagohai/active-example-selection)], 2022.12, ![](https://img.shields.io/badge/arxiv-FAEFCA)
     
-6.  **Structured Prompting: Scaling In-Context Learning to 1,000 Examples** ![](https://img.shields.io/badge/New-EAD8D9)
+14.  **Structured Prompting: Scaling In-Context Learning to 1,000 Examples** ![](https://img.shields.io/badge/New-EAD8D9)
     
     *Yaru Hao, Yutao Sun, Li Dong, Zhixiong Han, Yuxian Gu, Furu Wei*. [[pdf](https://arxiv.org/abs/2212.06713)], [[project](https://github.com/microsoft/LMOps)], 2022.12. ![](https://img.shields.io/badge/arxiv-FAEFCA)
 
-7.  **Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity**.
+15.  **Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity**.
 
    *Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel, Pontus Stenetorp*.  [[pdf](https://arxiv.org/abs/2104.08786)], 2021.04, ![](https://img.shields.io/badge/ACL2021-FAEFCA)
     ![](https://img.shields.io/badge/Analysis-EAD8D9)
 
-8.  **On the Relation between Sensitivity and Accuracy in In-context Learning**.
+16.  **On the Relation between Sensitivity and Accuracy in In-context Learning**.
 
    *Yanda Chen, Chen Zhao, Zhou Yu, Kathleen McKeown, He He*.  [[pdf](https://arxiv.org/abs/2209.07661)], 2022.09, ![](https://img.shields.io/badge/conference-FAEFCA)
     ![](https://img.shields.io/badge/Analysis-EAD8D9)
 
-9.  **Can language models learn from explanations in context?**. ![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/explanations-DCE7F1)
+17.  **Can language models learn from explanations in context?**. ![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/explanations-DCE7F1)
 
    *Andrew K. Lampinen, Ishita Dasgupta, Stephanie C. Y. Chan, Kory Matthewson, Michael Henry Tessler, Antonia Creswell, James L. McClelland, Jane X. Wang, Felix Hill*.  [[pdf](https://arxiv.org/pdf/2204.02329.pdf)], 2022.04 ![](https://img.shields.io/badge/ArXiv-FAEFCA)
-    ![](https://img.shields.io/badge/None-EAD8D9)
 
-10. **Prototypical Calibration for Few-shot Learning of Language Models** ![](https://img.shields.io/badge/New-EAD8D9)
+18. **Prototypical Calibration for Few-shot Learning of Language Models** ![](https://img.shields.io/badge/New-EAD8D9)
     *Zhixiong Han, Yaru Hao, Li Dong, Furu Wei*. [[pdf](https://arxiv.org/abs/2205.10183)], [[project](https://github.com/microsoft/LMOps)], 2022.05.
+    
+
+19.  **Cross-Task Generalization via Natural Language Crowdsourcing Instructions**. ![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/unseen_task_generalization-DCE7F1)
+
+   *Swaroop Mishra, Daniel Khashabi, Chitta Baral, Hannaneh Hajishirzi*.  [[pdf](https://arxiv.org/abs/2104.08773)], [[project](https://github.com/allenai/natural-instructions)], 2022.03 ![](https://img.shields.io/badge/ACL2022-FAEFCA)
 
 ### Analysis of ICL
 
@@ -195,6 +200,10 @@ This section contains the pilot works that might contributes to the influence fa
 8. **Diverse Demonstrations Improve In-context Compositional Generalization** ![](https://img.shields.io/badge/diverse_demonstration-DCE7F1)
 
    *Itay Levy, Ben Bogin, Jonathan Berant*.  [[pdf](https://arxiv.org/abs/2212.06800)], [[project](https://github.com/itayle/diverse-demonstrations)], 2022.12, ![](https://img.shields.io/badge/arxiv-FAEFCA)
+   
+9. **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters** ![](https://img.shields.io/badge/understanding_cot-DCE7F1)
+
+   *Boshi Wang, Sewon Min, Xiang Deng, Jiaming Shen, You Wu, Luke Zettlemoyer, Huan Sun*.  [[pdf](https://arxiv.org/abs/2212.10001)], [[project](https://github.com/sunlab-osu/understanding-cot)], 2022.12, ![](https://img.shields.io/badge/arxiv-FAEFCA)    ![](https://img.shields.io/badge/New-EAD8D9)
 
 #### Working Mechanism of ICL
 
@@ -256,7 +265,7 @@ This section contains the pilot works that might contributes to the evaluation o
 2. **SUPER-NATURALINSTRUCTIONS: Generalization via Declarative Instructions on 1600+ NLP Task**. ![](https://img.shields.io/badge/natural_instructions-DCE7F1)
 
    *Yizhong Wang, Swaroop Mishra, Pegah Alipoormolabashi, Yeganeh Kordi, Amirreza Mirzaei, Anjana Arunkumar, Arjun Ashok, Arut Selvan Dhanasekaran, Atharva Naik, David Stap, Eshaan Pathak, Giannis Karamanolakis, Haizhi Gary Lai, Ishan Purohit et. al.*.  [[pdf](https://arxiv.org/abs/2204.07705)], [[project](https://github.com/allenai/natural-instructions)], 2022.04, ![](https://img.shields.io/badge/EMNLP2022-FAEFCA)
-   ![](https://img.shields.io/badge/None-EAD8D9) ![](https://img.shields.io/badge/instruction_tuning-D8D0E1)
+    ![](https://img.shields.io/badge/instruction_tuning-D8D0E1)
 3. **Language Models are Multilingual Chain-of-Thought Reasoners**.
 
    *Freda Shi, Mirac Suzgun, Markus Freitag, Xuezhi Wang, Suraj Srivats, Soroush Vosoughi, Hyung Won Chung, Yi Tay, Sebastian Ruder, Denny Zhou, Dipanjan Das, Jason Wei*.  [[pdf](https://arxiv.org/abs/2210.03057)], 2022.10, ![](https://img.shields.io/badge/conference-FAEFCA)
