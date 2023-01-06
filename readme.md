@@ -229,7 +229,7 @@ This section contains the pilot works that might contributes to the influence fa
 
 4. **Data Distributional Properties Drive Emergent In-Context Learning in Transformers** ![](https://img.shields.io/badge/data_distributional-DCE7F1)
 
-   *Stephanie C. Y. Chan, Adam Santoro, Andrew K. Lampinen, Jane X. Wang, Aaditya Singh, Pierre H. Richemond, Jay McClelland, Felix Hill*.  [[pdf](https://arxiv.org/abs/2205.05055)], [[project](https://github.com/deepmind/emergent_in_context_learning)], 2022.05, ![](<https://img.shields.io/badge/> NeurIPS2022-FAEFCA)
+   *Stephanie C. Y. Chan, Adam Santoro, Andrew K. Lampinen, Jane X. Wang, Aaditya Singh, Pierre H. Richemond, Jay McClelland, Felix Hill*.  [[pdf](https://arxiv.org/abs/2205.05055)], [[project](https://github.com/deepmind/emergent_in_context_learning)], 2022.05, ![](https://img.shields.io/badge/NeurIPS2022-FAEFCA)
    ![](https://img.shields.io/badge/Analysis-EAD8D9)
 
 5. **What learning algorithm is in-context learning? Investigations with linear models** ![](https://img.shields.io/badge/learning_algorithm-DCE7F1)
