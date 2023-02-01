@@ -247,17 +247,13 @@ This section contains the pilot works that might contributes to the influence fa
    *Damai Dai, Yutao Sun, Li Dong, Yaru Hao, Zhifang Sui, Furu Wei*.  [[pdf](https://arxiv.org/abs/2212.10559)], [[project](https://github.com/microsoft/LMOps)], 2022.12 ![](https://img.shields.io/badge/ArXiv-FAEFCA)
    ![](https://img.shields.io/badge/Analysis-EAD8D9)
 
-<!-- 10. **Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts**. ![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/negated-DCE7F1)
-   
-   *Joel Jang, Seonghyeon Ye, Minjoon Seo*.  [[pdf](link)], 2022.10, ![](https://img.shields.io/badge/ArXiv-FAEFCA) 
-![](https://img.shields.io/badge/None-EAD8D9) 
- -->
+8. **Transformers as Algorithms: Generalization and Implicit Model Selection in In-context Learning** ![](https://img.shields.io/badge/algorithm-DCE7F1)
 
-<!-- 11.**Does GPT-3 Generate Empathetic Dialogues? A Novel In-Context Example Selection Method and Automatic Evaluation Metric for Empathetic Dialogue Generation**. ![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/empathetic-DCE7F1)
-   
-   *Young-Jun Lee, Chae-Gyun Lim, Ho-Jin Choi*.  [[pdf](link)], 2022.10, ![](https://img.shields.io/badge/COLING-FAEFCA) 
-![](https://img.shields.io/badge/None-EAD8D9) 
- -->
+   *Yingcong Li, M. Emrullah Ildiz, Dimitris S. Papailiopoulos, Samet Oymak*.  [[pdf](https://arxiv.org/abs/2301.07067)], 2023.1 ![](https://img.shields.io/badge/ArXiv-FAEFCA)
+   ![](https://img.shields.io/badge/Analysis-EAD8D9)
+
+
+
 
 ### Evaluation and Resources
 
