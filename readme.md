@@ -327,11 +327,14 @@ This section contains the pilot works that might contributes to the challenges a
 
 [More Efficient In-Context Learning with GLaM](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html)
 
-## How to contribute?
+## Contribution
 
-- Add new papers to the corresponding part and mark with ![](https://img.shields.io/badge/New-EAD8D9) if the paper has not been included in our survey.
-- If the ![](https://img.shields.io/badge/New-EAD8D9) paper is included in the survey, please replace the ![](https://img.shields.io/badge/New-EAD8D9) to the specific section. e.g., ![](https://img.shields.io/badge/Analysis-EAD8D9), and add other basic info about this paper, such as authors, conference.
-- If you think the paper does not belong in your section, please move it to another section with the ![](https://img.shields.io/badge/New-EAD8D9) tag.
+Please feel free to contribute and promote your awesome work or other related works here! 
+If you recommended related works on ICL or make contributions on this repo, please provide your information (name, homepage) and we will add you to the contributor list😊.
+
+### Contributor list 
+We thank [Damai Dai](hhttps://scholar.google.com/citations?user=8b-ysf0NWVoC&hl=zh-CN&oi=ao), [Qingxiu Dong](https://dqxiu.github.io/), [Lei Li](https://leili.site/), [Shihao Liang](https://pooruss.github.io/-lshwebsite/), [Li Dong](http://dong.li/) for their repo contribution and paper recommendation.
+
 
 <!-- ## Citations -->
 ## Reference
@@ -349,8 +352,3 @@ Some papers are discussed in the following paper:
       primaryClass={cs.CL}
 }
 ```
-
-<!-- - **Recent todo:** 
-  - I will add the paper link, project link, date, conference for all the paper (except the new papers), please renew the , ![](https://img.shields.io/badge/section-EAD8D9) and  for each paper belongs to your section.
-  - Since there is a section title, why should we renew ![](https://img.shields.io/badge/section-EAD8D9)? This is for you to check and make sure that the paper is already added in your section.
-  - As there's no paper for intro, lei please add the basic info for all the ![](https://img.shields.io/badge/New-EAD8D9) papers, but please retain the ![](https://img.shields.io/badge/New-EAD8D9) tag, rather than replace it with the ![](https://img.shields.io/badge/XXXSection-EAD8D9). -->
