@@ -128,7 +128,7 @@ This section contains the pilot works that might contributes to the prompt selec
 11. **An lnformation-theoretic Approach to Prompt Engineering Without Ground Truth Labels** ![](https://img.shields.io/badge/New-EAD8D9)
 
     *Taylor Sorensen, Joshua Robinson, Christopher Rytting, Alexander Shaw, Kyle Rogers, Alexia Delorey, Mahmoud Khalil, Nancy Fulda, David Wingate*.  [[pdf](https://aclanthology.org/2022.acl-long.60/)], 2022.5, ![](https://img.shields.io/badge/ACL2022-FAEFCA)
-   ![](https://img.shields.io/badge/prompt-EAD8D9)
+      ![](https://img.shields.io/badge/prompt-EAD8D9)
 
 12. **Self-adaptive In-context Learning** ![](https://img.shields.io/badge/New-EAD8D9)
     
@@ -145,7 +145,7 @@ This section contains the pilot works that might contributes to the prompt selec
 15. **Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity**.
 
    *Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel, Pontus Stenetorp*.  [[pdf](https://arxiv.org/abs/2104.08786)], 2021.04, ![](https://img.shields.io/badge/ACL2021-FAEFCA) ![](https://img.shields.io/badge/Analysis-EAD8D9)
-   
+
 16. **On the Relation between Sensitivity and Accuracy in In-context Learning**.
 
    *Yanda Chen, Chen Zhao, Zhou Yu, Kathleen McKeown, He He*.  [[pdf](https://arxiv.org/abs/2209.07661)], 2022.09, ![](https://img.shields.io/badge/conference-FAEFCA)
@@ -281,6 +281,7 @@ This section contains the pilot works that might contributes to the evaluation o
    - how to learn task instructions from input output demonstrations
 5. **Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought**2022.10.3  ![](https://img.shields.io/badge/New-EAD8D9)
 6. **What is Not in the Context? Evaluation of Few-shot Learners with Informative Demonstrations** 2212.01692.pdf (arxiv.org)  ![](https://img.shields.io/badge/New-EAD8D9)
+7. **The Flan Collection: Designing Data and Methods for Effective** [[pdf](https://arxiv.org/pdf/2301.13688.pdf)], [[project](https://github.com/google-research/FLAN/tree/main/flan/v2)], 2023.1, ![](https://img.shields.io/badge/arxiv-FAEFCA)    ![](https://img.shields.io/badge/New-EAD8D9)
 
 ### Application
 
