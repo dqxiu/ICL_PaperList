@@ -330,7 +330,7 @@ This section contains the pilot works that might contributes to the challenges a
 ## Contribution
 
 Please feel free to contribute and promote your awesome work or other related works here! 
-If you recommended related works on ICL or make contributions on this repo, please provide your information (name, homepage) and we will add you to the contributor list😊.
+If you recommend related works on ICL or make contributions on this repo, please provide your information (name, homepage) and we will add you to the contributor list😊.
 
 ### Contributor list 
 We thank [Damai Dai](https://scholar.google.com/citations?user=8b-ysf0NWVoC&hl=zh-CN&oi=ao), [Qingxiu Dong](https://dqxiu.github.io/), [Lei Li](https://leili.site/), [Shihao Liang](https://pooruss.github.io/-lshwebsite/), [Li Dong](http://dong.li/) for their repo contribution and paper recommendation.
