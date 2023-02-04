@@ -281,7 +281,15 @@ This section contains the pilot works that might contributes to the evaluation o
    - how to learn task instructions from input output demonstrations
 5. **Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought**2022.10.3  ![](https://img.shields.io/badge/New-EAD8D9)
 6. **What is Not in the Context? Evaluation of Few-shot Learners with Informative Demonstrations** 2212.01692.pdf (arxiv.org)  ![](https://img.shields.io/badge/New-EAD8D9)
-7. **The Flan Collection: Designing Data and Methods for Effective** [[pdf](https://arxiv.org/pdf/2301.13688.pdf)], [[project](https://github.com/google-research/FLAN/tree/main/flan/v2)], 2023.1, ![](https://img.shields.io/badge/arxiv-FAEFCA)    ![](https://img.shields.io/badge/New-EAD8D9)
+7. **Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor**.
+
+   *Or Honovich, Thomas Scialom, Omer Levy, Timo Schick*. [[pdf](https://arxiv.org/pdf/2212.09689.pdf)], [[project](https://github.com/orhonovich/unnatural-instructions)], 2022.12, ![](https://img.shields.io/badge/arxiv-FAEFCA)    ![](https://img.shields.io/badge/New-EAD8D9)
+8. **Self-Instruct: Aligning Language Model with Self Generated Instructions**.
+
+   *Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, Hannaneh Hajishirzi*. [[pdf](https://arxiv.org/pdf/2212.10560.pdf)], [[project](https://github.com/yizhongw/self-instruct)], 2022.12, ![](https://img.shields.io/badge/arxiv-FAEFCA)    ![](https://img.shields.io/badge/New-EAD8D9)
+9. **The Flan Collection: Designing Data and Methods for Effective**.
+
+   *Shayne Longpre, Le Hou, Tu Vu, Albert Webson, Hyung Won Chung, Yi Tay, Denny Zhou, Quoc V. Le, Barret Zoph, Jason Wei, Adam Roberts*. [[pdf](https://arxiv.org/pdf/2301.13688.pdf)], [[project](https://github.com/google-research/FLAN/tree/main/flan/v2)], 2023.1, ![](https://img.shields.io/badge/arxiv-FAEFCA)    ![](https://img.shields.io/badge/New-EAD8D9)
 
 ### Application
 
