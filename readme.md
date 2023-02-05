@@ -161,6 +161,10 @@ This section contains the pilot works that might contributes to the prompt selec
 19. **Cross-Task Generalization via Natural Language Crowdsourcing Instructions**. ![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/unseen_task_generalization-DCE7F1)
 
    *Swaroop Mishra, Daniel Khashabi, Chitta Baral, Hannaneh Hajishirzi*.  [[pdf](https://arxiv.org/abs/2104.08773)], [[project](https://github.com/allenai/natural-instructions)], 2022.03 ![](https://img.shields.io/badge/ACL2022-FAEFCA)
+   
+ 20. **Large Language Models Are Implicitly Topic Models: Explaining and Finding Good Demonstrations for In-Context Learning**. ![](https://img.shields.io/badge/New-EAD8D9)
+ 
+     *Xinyi Wang, Wanrong Zhu, William Yang Wang*.  [[pdf](https://arxiv.org/abs/2301.11916)], [[project](https://github.com/WANGXinyiLinda/concept-based-demonstration-selection)], 2023.01
 
 ### Analysis of ICL
 
@@ -310,7 +314,11 @@ This section contains the pilot works that expands the application of ICL.
    *Yukun Huang, Yanda Chen, Zhou Yu, Kathleen McKeown*.  [[pdf](https://arxiv.org/abs/2212.10670)], 2022.12, ![](https://img.shields.io/badge/conference-FAEFCA)
    ![](https://img.shields.io/badge/challenge-EAD8D9) ![](https://img.shields.io/badge/distillation-D8D0E1)
 
-5. **Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions**![](https://img.shields.io/badge/New-EAD8D9)
+4. **Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions**![](https://img.shields.io/badge/New-EAD8D9)
+5. **Prompt-Augmented Linear Probing: Scaling Beyond the Limit of Few-shot In-Context Learner**.
+
+   *Hyunsoo Cho, Hyuhng Joon Kim, Junyeob Kim, Sang-Woo Lee, Sang-goo Lee, Kang Min Yoo, Taeuk Kim*. [[pdf](https://arxiv.org/abs/2212.10873)], 2022.12, ![](https://img.shields.io/badge/AAAI2023-FAEFCA)
+   ![](https://img.shields.io/badge/application-EAD8D9) ![](https://img.shields.io/badge/linear_probing-D8D0E1)
 
 ### Problems
 
