@@ -214,6 +214,11 @@ This section contains the pilot works that might contributes to the influence fa
 
    *Boshi Wang, Sewon Min, Xiang Deng, Jiaming Shen, You Wu, Luke Zettlemoyer, Huan Sun*.  [[pdf](https://arxiv.org/abs/2212.10001)], [[project](https://github.com/sunlab-osu/understanding-cot)], 2022.12, ![](https://img.shields.io/badge/arxiv-FAEFCA)    ![](https://img.shields.io/badge/New-EAD8D9)
 
+10. **How Does In-Context Learning Help Prompt Tuning?**
+
+      *Simeng Sun, Yang Liu, Dan Iter, Chenguang Zhu, Mohit Iyyer*.  [[pdf](https://arxiv.org/abs/2302.11521)], 2023.02, ![](https://img.shields.io/badge/arxiv-FAEFCA)
+
+
 #### Working Mechanism of ICL
 
 1. **An Explanation of In-context Learning as Implicit Bayesian Inference** ![](https://img.shields.io/badge/bayesian-DCE7F1)
