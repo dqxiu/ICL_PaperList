@@ -320,10 +320,14 @@ This section contains the pilot works that expands the application of ICL.
    ![](https://img.shields.io/badge/challenge-EAD8D9) ![](https://img.shields.io/badge/distillation-D8D0E1)
 
 4. **Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions**![](https://img.shields.io/badge/New-EAD8D9)
+
 5. **Prompt-Augmented Linear Probing: Scaling Beyond the Limit of Few-shot In-Context Learner**.
 
    *Hyunsoo Cho, Hyuhng Joon Kim, Junyeob Kim, Sang-Woo Lee, Sang-goo Lee, Kang Min Yoo, Taeuk Kim*. [[pdf](https://arxiv.org/abs/2212.10873)], 2022.12, ![](https://img.shields.io/badge/AAAI2023-FAEFCA)
    ![](https://img.shields.io/badge/application-EAD8D9) ![](https://img.shields.io/badge/linear_probing-D8D0E1)
+
+6. **In-Context Learning Unlocked for Diffusion Models**
+   *Zhendong Wang, Yifan Jiang, Yadong Lu, Yelong Shen, Pengcheng He, Weizhu Chen, Zhangyang Wang, Mingyuan Zhou*. [[pdf]](https://arxiv.org/abs/2305.01115), [[project]](https://github.com/Zhendong-Wang/Prompt-Diffusion), 2023.5, ![](https://img.shields.io/badge/arxiv-FAEFCA)
 
 ### Problems
 
