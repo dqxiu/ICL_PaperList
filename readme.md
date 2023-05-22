@@ -364,7 +364,7 @@ Please feel free to contribute and promote your awesome work or other related wo
 If you recommend related works on ICL or make contributions on this repo, please provide your information (name, homepage) and we will add you to the contributor list😊.
 
 ### Contributor list 
-We thank [Damai Dai](https://scholar.google.com/citations?user=8b-ysf0NWVoC&hl=zh-CN&oi=ao), [Qingxiu Dong](https://dqxiu.github.io/), [Lei Li](https://leili.site/), [Ce Zheng](https://scholar.google.com/citations?user=r7qFs7UAAAAJ&hl=zh-CN&oi=ao), [Shihao Liang](https://pooruss.github.io/-lshwebsite/), [Li Dong](http://dong.li/), [Siyin Wang](https://sinwang20.github.io/) for their repo contribution and paper recommendation.
+We thank [Damai Dai](https://scholar.google.com/citations?user=8b-ysf0NWVoC&hl=zh-CN&oi=ao), [Qingxiu Dong](https://dqxiu.github.io/), [Lei Li](https://leili.site/), [Ce Zheng](https://scholar.google.com/citations?user=r7qFs7UAAAAJ&hl=zh-CN&oi=ao), [Shihao Liang](https://pooruss.github.io/-lshwebsite/), [Li Dong](http://dong.li/), [Siyin Wang](https://sinwang20.github.io/), [Po-Chuan Chen](https://jacksonchen1998.github.io/) for their repo contribution and paper recommendation.
 
 
 <!-- ## Citations -->
