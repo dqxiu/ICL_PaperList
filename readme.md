@@ -261,7 +261,9 @@ This section contains the pilot works that might contributes to the influence fa
    *Yingcong Li, M. Emrullah Ildiz, Dimitris S. Papailiopoulos, Samet Oymak*.  [[pdf](https://arxiv.org/abs/2301.07067)], 2023.1 ![](https://img.shields.io/badge/ArXiv-FAEFCA)
    ![](https://img.shields.io/badge/Analysis-EAD8D9)
 
+9. **Iterative Forward Tuning Boosts In-context Learning in Language Models** ![](https://img.shields.io/badge/DeepThinking-DCE7F1) 
 
+   *Jiaxi Yang, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li*.  [[pdf](https://arxiv.org/abs/2305.13016)], [[project](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/deep-thinking)], [[demo](https://huggingface.co/spaces/huybery/deep-thinking)], 2023.05 ![](https://img.shields.io/badge/ArXiv-FAEFCA) ![](https://img.shields.io/badge/New-EAD8D9)
 
 
 ### Evaluation and Resources
