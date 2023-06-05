@@ -328,8 +328,9 @@ This section contains the pilot works that expands the application of ICL.
 
 6. **In-Context Learning Unlocked for Diffusion Models**
    *Zhendong Wang, Yifan Jiang, Yadong Lu, Yelong Shen, Pengcheng He, Weizhu Chen, Zhangyang Wang, Mingyuan Zhou*. [[pdf]](https://arxiv.org/abs/2305.01115), [[project]](https://github.com/Zhendong-Wang/Prompt-Diffusion), 2023.5, ![](https://img.shields.io/badge/arxiv-FAEFCA)
-
-### Problems
+   
+7. **Molecule Representation Fusion via In-Context Learning for Retrosynthetic Plannings**
+   *Songtao Liu, Zhengkai Tu, Minkai Xu, Zuobai Zhang, Lu Lin, Rex Ying, Jian Tang, Peilin Zhao, Dinghao Wu*. [[pdf]](https://arxiv.org/pdf/2209.15315.pdf), [[project]](https://github.com/SongtaoLiu0823/FusionRetro), 2023.5, ![](https://img.shields.io/badge/arxiv-FusionRetro)
 
 This section contains the pilot works that points out the problems of ICL.
 
