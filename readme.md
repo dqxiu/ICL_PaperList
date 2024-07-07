@@ -16,7 +16,7 @@
     - [Prompt Tuning for ICL](#prompt-tuning-for-icl)
     - [Analysis of ICL](#analysis-of-icl)
       - [Influence Factors for ICL](#influence-factors-for-icl)
-        - [Pre-training stage](#pre-training-stage)
+        - [Pre-training Stage](#pre-training-stage)
         - [Inference Stage](#inference-stage)
       - [Working Mechanism of ICL](#working-mechanism-of-icl)
     - [Evaluation and Resources](#evaluation-and-resources)
@@ -63,10 +63,8 @@ This section contains the pilot works that might contributes to the training str
 #### Pre-training
 1. **MEND: meta demonstration distillation for efficient and effective in-context learning.** ![](https://img.shields.io/badge/MEND-DCE7F1)
     *Yichuan Li, Xiyao Ma, Sixing Lu, Kyumin Lee, Xiaohu Liu, Chenlei Guo.* [[pdf](https://arxiv.org/pdf/2403.06914)], [[project](https://github.com/bigheiniu/MEND)], 2024.3, ![](https://img.shields.io/badge/ICLR2024-FAEFCA) 
-
 2. **Pre-training to learn in context.** ![](https://img.shields.io/badge/PICL-DCE7F1)
    *Yuxian Gu, Li Dong, Furu Wei, Minlie Huang.* [[pdf](https://arxiv.org/pdf/2305.09137.pdf)], [[project](https://github.com/thu-coai/PICL)], 2023.7, ![](https://img.shields.io/badge/ACL2023-FAEFCA)
-
 3. **In-context pretraining: Language modeling beyond document boundaries.** ![](https://img.shields.io/badge/ICLM-DCE7F1) 
    *Weijia Shi, Sewon Min, Maria Lomeli, Chunting Zhou, Margaret Li, Gergely Szilvasy, Rich James, Xi Victoria Lin, Noah A. Smith, Luke Zettlemoyer, Scott Yih, Mike Lewis.* [[pdf](https://arxiv.org/pdf/2310.10638)], [[project](https://github.com/swj0419/in-context-pretraining)], 2023.7, ![](https://img.shields.io/badge/ICLR2024-FAEFCA)
 
@@ -77,12 +75,10 @@ This section contains the pilot works that might contributes to the training str
 
    *Sewon Min, Mike Lewis, Luke Zettlemoyer, Hannaneh Hajishirzi*.  [[pdf](https://arxiv.org/pdf/2110.15943)], [[project](https://github.com/facebookresearch/metaicl)], 2021.10, ![](https://img.shields.io/badge/NAACL2022-FAEFCA)
    ![](https://img.shields.io/badge/Warmup-EAD8D9) ![](https://img.shields.io/badge/MetaTraining-D8D0E1)
-
 2. **Improving In-Context Few-Shot Learning via Self-Supervised Training**.
 
    *Mingda Chen, Jingfei Du, Ramakanth Pasunuru, Todor Mihaylov, Srini Iyer, Veselin Stoyanov, Zornitsa Kozareva*.  [[pdf](https://aclanthology.org/2022.naacl-main.260.pdf)], [[project]()], 2022.5, ![](https://img.shields.io/badge/NAACL2022-FAEFCA)
    ![](https://img.shields.io/badge/Warmup-EAD8D9) ![](https://img.shields.io/badge/Self_Supervised_Training-D8D0E1)
-
 3. **Calibrate Before Use: Improving Few-shot Performance of Language Models**.
 
    *Zihao Zhao, Eric Wallace, Shi Feng, Dan Klein, Sameer Singh*.  [[pdf](http://proceedings.mlr.press/v139/zhao21c.html)], [[project](https://github.com/tonyzhaozh/fewshot_learning)], 2021.2, ![](https://img.shields.io/badge/ICML2021-FAEFCA)
@@ -91,9 +87,8 @@ This section contains the pilot works that might contributes to the training str
    - Using N/A string to calibrate LMs away from common token bias
 4. **Symbol tuning improves in-context learning in language models.** ![](https://img.shields.io/badge/Symbol_tuning-DCE7F1)
    *Jerry Wei, Le Hou, Andrew Lampinen, Xiangning Chen, Da Huang, Yi Tay, Xinyun Chen, Yifeng Lu, Denny Zhou, Tengyu Ma, Quoc V. Le.*   [[pdf](https://arxiv.org/pdf/2305.08298)], [[project](https://github.com/tonyzhaozh/fewshot_learning)], 2023.5, ![](https://img.shields.io/badge/EMNLP2023-FAEFCA)
-
 5. **Fine-tune language models to approximate unbiased in-context learning.** ![](https://img.shields.io/badge/RICL-DCE7F1)
-   *Timothy Chu, Zhao Song, Chiwun Yang.* [[pdf](https://arxiv.org/pdf/2310.03331)], 2023.10, 
+   *Timothy Chu, Zhao Song, Chiwun Yang.* [[pdf](https://arxiv.org/pdf/2310.03331)], 2023.10, ![](https://img.shields.io/badge/arxiv-FAEFCA)
 
 6. **ICL Markup: Structuring In-Context Learning using Soft-Token Tags** ![](https://img.shields.io/badge/ICL_Markup-DCE7F1)
    *Marc-Etienne Brunet, Ashton Anderson, Richard Zemel.* [[pdf](https://arxiv.org/pdf/2312.07405)], 2023.12, ![](https://img.shields.io/badge/NeurIPS2023-FAEFCA)
@@ -108,11 +103,10 @@ This section contains the pilot works that might contributes to the training str
 
 
 9. **Scaling instruction-finetuned language models.**
-    *Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Yunxuan Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, Albert Webson, Shixiang Shane Gu, Zhuyun Dai, Mirac Suzgun, Xinyun Chen, Aakanksha Chowdhery, Alex Castro-Ros, Marie Pellat, Kevin Robinson, Dasha Valter, Sharan Narang, Gaurav Mishra, Adams Yu, Vincent Zhao, Yanping Huang, Andrew Dai, Hongkun Yu, Slav Petrov, Ed H. Chi, Jeff Dean, Jacob Devlin, Adam Roberts, Denny Zhou, Quoc V. Le, Jason Wei* [[pdf](https://arxiv.org/pdf/2210.11416)], [[project](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints)], 2022.10, 
+    *Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Yunxuan Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, Albert Webson, Shixiang Shane Gu, Zhuyun Dai, Mirac Suzgun, Xinyun Chen, Aakanksha Chowdhery, Alex Castro-Ros, Marie Pellat, Kevin Robinson, Dasha Valter, Sharan Narang, Gaurav Mishra, Adams Yu, Vincent Zhao, Yanping Huang, Andrew Dai, Hongkun Yu, Slav Petrov, Ed H. Chi, Jeff Dean, Jacob Devlin, Adam Roberts, Denny Zhou, Quoc V. Le, Jason Wei* [[pdf](https://arxiv.org/pdf/2210.11416)], [[project](https://github.com/google-research/t5x/blob/main/docs/models.md#flan-t5-checkpoints)], 2022.10, ![](https://img.shields.io/badge/arxiv-FAEFCA)
 
 10. **Super-naturalinstructions: Generalization via declarative instructions on 1600+ nlp tasks.**
     *Yizhong Wang, Swaroop Mishra, Pegah Alipoormolabashi, Yeganeh Kordi, Amirreza Mirzaei, Atharva Naik, Arjun Ashok, Arut Selvan Dhanasekaran, Anjana Arunkumar, David Stap, Eshaan Pathak, Giannis Karamanolakis, Haizhi Gary Lai, Ishan Purohit, Ishani Mondal, Jacob Anderson, Kirby Kuznia, Krima Doshi, Kuntal Kumar Pal, Maitreya Patel, Mehrad Moradshahi, Mihir Parmar, Mirali Purohit, Neeraj Varshney, Phani Rohitha Kaza, Pulkit Verma, Ravsehaj Singh Puri, Rushang Karia, Savan Doshi, Shailaja Keyur Sampat, Siddhartha Mishra, Sujan Reddy A, Sumanta Patro, Tanay Dixit, Xudong Shen* [[pdf](https://aclanthology.org/2022.emnlp-main.340/)], [[project](https://instructions.apps.allenai.org/)], 2022.4, ![](https://img.shields.io/badge/EMNLP2022-FAEFCA)
-
 
 ### Prompt Tuning for ICL
 
@@ -251,7 +245,7 @@ We discuss relevant research addressing what influences ICL performance, includi
    ![](https://img.shields.io/badge/Analysis-EAD8D9)
 
 9. **Language models are few-shot learners.**
-   *Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan, Rewon Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford, Ilya Sutskever, Dario Amodei* [[pdf](https://arxiv.org/pdf/2005.14165)], 2020,5, ![](https://img.shields.io/badge/arxiv-FAEFCA)
+   *Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan, Rewon Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford, Ilya Sutskever, Dario Amodei* [[pdf](https://arxiv.org/pdf/2005.14165)], 2020,5, ![](https://img.shields.io/badge/NeurIPS2020-FAEFCA)
 
 
 ##### Inference Stage 
@@ -264,11 +258,11 @@ We discuss relevant research addressing what influences ICL performance, includi
 
 2. **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters** ![](https://img.shields.io/badge/understanding_cot-DCE7F1)
 
-   *Boshi Wang, Sewon Min, Xiang Deng, Jiaming Shen, You Wu, Luke Zettlemoyer, Huan Sun*.  [[pdf](https://arxiv.org/pdf/2212.10001)], [[project](https://github.com/sunlab-osu/understanding-cot)], 2022.12, ![](https://img.shields.io/badge/arxiv-FAEFCA)    ![](https://img.shields.io/badge/New-EAD8D9)
+   *Boshi Wang, Sewon Min, Xiang Deng, Jiaming Shen, You Wu, Luke Zettlemoyer, Huan Sun*.  [[pdf](https://arxiv.org/pdf/2212.10001)], [[project](https://github.com/sunlab-osu/understanding-cot)], 2022.12, ![](https://img.shields.io/badge/ACL2023-FAEFCA)    ![](https://img.shields.io/badge/New-EAD8D9)
 
 3. **Rethinking the Role of Scale for In-Context Learning: An Interpretability-based Case Study at 66 Billion Scale** ![](https://img.shields.io/badge/rethinking-DCE7F1)
 
-   *Hritik Bansal, Karthik Gopalakrishnan, Saket Dingliwal, Sravan Bodapati, Katrin Kirchhoff, Dan Roth*.  [[pdf](https://arxiv.org/pdf/2212.09095)], [[project](https://github.com/amazon-science/llm-interpret)], 2022.12, ![](https://img.shields.io/badge/arxiv-FAEFCA)
+   *Hritik Bansal, Karthik Gopalakrishnan, Saket Dingliwal, Sravan Bodapati, Katrin Kirchhoff, Dan Roth*.  [[pdf](https://arxiv.org/pdf/2212.09095)], [[project](https://github.com/amazon-science/llm-interpret)], 2022.12, ![](https://img.shields.io/badge/ACL2023-FAEFCA)
    ![](https://img.shields.io/badge/New-EAD8D9) ![](https://img.shields.io/badge/rethinking_scale-D8D0E1)
 
 4. **Ground-Truth Labels Matter: A Deeper Look into Input-Label Demonstrations** ![](https://img.shields.io/badge/ground_truth-DCE7F1), [[project]()], 
@@ -289,7 +283,7 @@ We discuss relevant research addressing what influences ICL performance, includi
    *Jerry W. Wei, Jason Wei, Yi Tay, Dustin Tran, Albert Webson, Yifeng Lu, Xinyun Chen, Hanxiao Liu, Da Huang, Denny Zhou, Tengyu Ma.* [[pdf](https://arxiv.org/pdf/2303.03846)], 2023.3, ![](https://img.shields.io/badge/arxiv-FAEFCA)
 
 8. **Diverse Demonstrations Improve In-context Compositional Generalization** ![](https://img.shields.io/badge/diverse_demonstration-DCE7F1)
-   *Itay Levy, Ben Bogin, Jonathan Berant*.  [[pdf](https://arxiv.org/pdf/2212.06800)], [[project](https://github.com/itayle/diverse-demonstrations)], 2022.12, ![](https://img.shields.io/badge/arxiv-FAEFCA)
+   *Itay Levy, Ben Bogin, Jonathan Berant*.  [[pdf](https://arxiv.org/pdf/2212.06800)], [[project](https://github.com/itayle/diverse-demonstrations)], 2022.12, ![](https://img.shields.io/badge/ACL2023-FAEFCA)
 
 9. **Fantastically ordered prompts and where to find them: Overcoming few-shot prompt order sensitivity.**
    *Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel, Pontus Stenetorp.* [[pdf](https://aclanthology.org/2022.acl-long.556.pdf)], 2021.4, ![](https://img.shields.io/badge/ACL2022-FAEFCA)
@@ -300,7 +294,7 @@ We discuss relevant research addressing what influences ICL performance, includi
 
 
 11. **Lost in the middle: How language models use long contexts.**
-   *Nelson F. Liu, Kevin Lin, John Hewitt, Ashwin Paranjape, Michele Bevilacqua, Fabio Petroni, Percy Liang.* [[pdf](https://doi.org/10.48550/arXiv.2307.03172)], [[project](https://github.com/nelson-liu/lost-in-the-middle)], 2023.7, ![](https://img.shields.io/badge/arxiv-FAEFCA)
+   *Nelson F. Liu, Kevin Lin, John Hewitt, Ashwin Paranjape, Michele Bevilacqua, Fabio Petroni, Percy Liang.* [[pdf](https://doi.org/10.48550/arXiv.2307.03172)], [[project](https://github.com/nelson-liu/lost-in-the-middle)], 2023.7, ![](https://img.shields.io/badge/ACL2024-FAEFCA)
 
 12.  **Measuring inductive biases of in-context learning with underspecified demonstrations.**
    *Chenglei Si, Dan Friedman, Nitish Joshi, Shi Feng, Danqi Chen, He He.* [[pdf](https://doi.org/10.18653/v1/2023.acl-long.632)], [[project](https://github.com/NoviScl/AmbigPrompt)], 2023.5, ![](https://img.shields.io/badge/ACL2023-FAEFCA)
@@ -311,14 +305,13 @@ We discuss relevant research addressing what influences ICL performance, includi
 
 14. **How Does In-Context Learning Help Prompt Tuning?**
 
-      *Simeng Sun, Yang Liu, Dan Iter, Chenguang Zhu, Mohit Iyyer*.  [[pdf](https://arxiv.org/pdf/2302.11521)], 2023.02, ![](https://img.shields.io/badge/arxiv-FAEFCA)
+      *Simeng Sun, Yang Liu, Dan Iter, Chenguang Zhu, Mohit Iyyer*.  [[pdf](https://arxiv.org/pdf/2302.11521)], 2023.02, ![](https://img.shields.io/badge/EACL2024-FAEFCA)
 
 
 #### Working Mechanism of ICL
-
 1. **In-context Learning and Induction Heads** ![](https://img.shields.io/badge/induction_head-DCE7F1)
 
-   *Catherine Olsson, Nelson Elhage, Neel Nanda, Nicholas Joseph, Nova DasSarma, Tom Henighan, Ben Mann, Amanda Askell, Yuntao Bai, Anna Chen, Tom Conerly, Dawn Drain, Deep Ganguli, Zac Hatfield-Dodds, Danny Hernandez, Scott Johnston, Andy Jones, Jackson Kernion, Liane Lovitt, Kamal Ndousse, Dario Amodei, Tom Brown, Jack Clark, Jared Kaplan, Sam McCandlish, Chris Olah*.  [[pdf](https://arxiv.org/pdf/2209.11895)], 2022.10, ![](https://img.shields.io/badge/ArXiv-FAEFCA)
+   *Catherine Olsson, Nelson Elhage, Neel Nanda, Nicholas Joseph, Nova DasSarma, Tom Henighan, Ben Mann, Amanda Askell, Yuntao Bai, Anna Chen, Tom Conerly, Dawn Drain, Deep Ganguli, Zac Hatfield-Dodds, Danny Hernandez, Scott Johnston, Andy Jones, Jackson Kernion, Liane Lovitt, Kamal Ndousse, Dario Amodei, Tom Brown, Jack Clark, Jared Kaplan, Sam McCandlish, Chris Olah*.  [[pdf](https://arxiv.org/pdf/2209.11895)], 2022.10, ![](https://img.shields.io/badge/arXiv-FAEFCA)
    ![](https://img.shields.io/badge/Analysis-EAD8D9)
 
 2. **Birth of a transformer: A memory viewpoint.**
@@ -327,7 +320,7 @@ We discuss relevant research addressing what influences ICL performance, includi
 
 3. **Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers** ![](https://img.shields.io/badge/meta_optimizer-DCE7F1)
 
-   *Damai Dai, Yutao Sun, Li Dong, Yaru Hao, Zhifang Sui, Furu Wei*.  [[pdf](https://arxiv.org/pdf/2212.10559)], [[project](https://github.com/microsoft/LMOps)], 2022.12 ![](https://img.shields.io/badge/ArXiv-FAEFCA)
+   *Damai Dai, Yutao Sun, Li Dong, Yaru Hao, Zhifang Sui, Furu Wei*.  [[pdf](https://arxiv.org/pdf/2212.10559)], [[project](https://github.com/microsoft/LMOps)], 2022.12 ![](https://img.shields.io/badge/ACL2023-FAEFCA)
    ![](https://img.shields.io/badge/Analysis-EAD8D9)
 
 4. **The dual form of neural networks revisited: Connecting test time predictions to training patterns via spotlights of attention.**
@@ -366,10 +359,8 @@ We discuss relevant research addressing what influences ICL performance, includi
 12.  **In-context learning through the bayesian prism.**
    *Kabir Ahuja, Madhur Panwar, Navin Goyal.* [[pdf](https://doi.org/10.48550/arXiv.2306.04891)], 2023.6, ![](https://img.shields.io/badge/arxiv-FAEFCA)
 
-13.  **What learning algorithm is in-context learning? Investigations with linear models** ![](https://img.shields.io/badge/learning_algorithm-DCE7F1)
-
-   *Ekin Akyürek, Dale Schuurmans, Jacob Andreas, Tengyu Ma, Denny Zhou*.  [[pdf](https://arxiv.org/pdf/2211.15661)], 2022.11, ![](https://img.shields.io/badge/ArXiv-FAEFCA)
-   ![](https://img.shields.io/badge/Analysis-EAD8D9)
+13.  **What learning algorithm is in-context learning? Investigations with linear models.** ![](https://img.shields.io/badge/learning_algorithm-DCE7F1)
+    *Ekin Akyürek, Dale Schuurmans, Jacob Andreas, Tengyu Ma, Denny Zhou*.  [[pdf](https://arxiv.org/pdf/2211.15661)], 2022.11, ![](https://img.shields.io/badge/ICLR2023-FAEFCA) ![](https://img.shields.io/badge/Analysis-EAD8D9)
 
 
 14. **Transformers as statisticians: Provable in-context learning with in-context algorithm selection.**
@@ -377,13 +368,11 @@ We discuss relevant research addressing what influences ICL performance, includi
 
 
 15. **Transformers learn higher-order optimization methods for in-context learning: A study with linear models.**
-   *Deqing Fu, Tian-Qi Chen, Robin Jia, Vatsal Sharan.* [[pdf](https://doi.org/10.48550/arXiv.2310.17086)], [[project](https://github.com/DeqingFu/transformers-icl-higher-order)], 2023.10, ![](https://img.shields.io/badge/-FAEFCA)
+   *Deqing Fu, Tian-Qi Chen, Robin Jia, Vatsal Sharan.* [[pdf](https://doi.org/10.48550/arXiv.2310.17086)], [[project](https://github.com/DeqingFu/transformers-icl-higher-order)], 2023.10, ![](https://img.shields.io/badge/arxiv-FAEFCA)
 
 
 16. **What Can Transformers Learn In-Context? A Case Study of Simple Function Classes** ![](https://img.shields.io/badge/case_study-DCE7F1)
-
-   *Shivam Garg, Dimitris Tsipras, Percy Liang, Gregory Valiant*.  [[pdf](https://openreview.net/pdf?id=flNZJ2eOet)], 2022.08, ![](https://img.shields.io/badge/ArXiv-FAEFCA)
-   ![](https://img.shields.io/badge/Analysis-EAD8D9)
+   *Shivam Garg, Dimitris Tsipras, Percy Liang, Gregory Valiant*.  [[pdf](https://openreview.net/pdf?id=flNZJ2eOet)], 2022.08, ![](https://img.shields.io/badge/NeurIPS2022-FAEFCA) ![](https://img.shields.io/badge/Analysis-EAD8D9)
 
 
 17. **A theory of emergent in-context learning as implicit structure induction.**
@@ -395,10 +384,8 @@ We discuss relevant research addressing what influences ICL performance, includi
 19. **A latent space theory for emergent abilities in large language models.**
    *Hui Jiang.* [[pdf](https://doi.org/10.48550/arXiv.2304.09960)], 2023.4, ![](https://img.shields.io/badge/arxiv-FAEFCA)
 
-20. **Transformers as Algorithms: Generalization and Implicit Model Selection in In-context Learning** ![](https://img.shields.io/badge/algorithm-DCE7F1)
-
-   *Yingcong Li, M. Emrullah Ildiz, Dimitris S. Papailiopoulos, Samet Oymak*.  [[pdf](https://arxiv.org/pdf/2301.07067)], 2023.1 ![](https://img.shields.io/badge/ArXiv-FAEFCA)
-   ![](https://img.shields.io/badge/Analysis-EAD8D9)
+20. **Transformers as Algorithms: Generalization and Implicit Model Selection in In-context Learning.** ![](https://img.shields.io/badge/algorithm-DCE7F1)
+    *Yingcong Li, M. Emrullah Ildiz, Dimitris S. Papailiopoulos, Samet Oymak*.  [[pdf](https://arxiv.org/pdf/2301.07067)], 2023.1 ![](https://img.shields.io/badge/ArXiv-FAEFCA) ![](https://img.shields.io/badge/Analysis-EAD8D9)
 
 
 21. **One step of gradient descent is provably the optimal in-context learner with one layer of linear self-attention.**
@@ -408,9 +395,8 @@ We discuss relevant research addressing what influences ICL performance, includi
    *Jane Pan, Tianyu Gao, Howard Chen, Danqi Chen.* [[pdf](https://doi.org/10.18653/v1/2023.findings-acl.527)], [[project](https://github.com/princeton-nlp/WhatICLLearns)], 2023.5, ![](https://img.shields.io/badge/ACL2023-FAEFCA)
 
 
-23. **Transformers learn in-context by gradient descent** ![](https://img.shields.io/badge/gd-DCE7F1)
-
-   *von Oswald, Johannes, Eyvind Niklasson, Ettore Randazzo, João Sacramento, Alexander Mordvintsev, Andrey Zhmoginov, Max Vladymyrov*.  [[pdf](https://arxiv.org/pdf/2212.07677)], 2022.12, ![](https://img.shields.io/badge/ArXiv-FAEFCA)
+23. **Transformers learn in-context by gradient descent.** ![](https://img.shields.io/badge/gd-DCE7F1)
+    *von Oswald, Johannes, Eyvind Niklasson, Ettore Randazzo, João Sacramento, Alexander Mordvintsev, Andrey Zhmoginov, Max Vladymyrov*.  [[pdf](https://arxiv.org/pdf/2212.07677)], 2022.12, ![](https://img.shields.io/badge/ICML2023-FAEFCA)
    ![](https://img.shields.io/badge/Analysis-EAD8D9)
 
 24. **Do pretrained transformers learn in-context by gradient descent?**
@@ -423,7 +409,8 @@ We discuss relevant research addressing what influences ICL performance, includi
 
 
 26. **Iterative Forward Tuning Boosts In-context Learning in Language Models** ![](https://img.shields.io/badge/DeepThinking-DCE7F1) 
-   *Jiaxi Yang, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li*.  [[pdf](https://arxiv.org/pdf/2305.13016)], [[project](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/deep-thinking)], [[demo](https://huggingface.co/spaces/huybery/deep-thinking)], 2023.05 ![](https://img.shields.io/badge/ArXiv-FAEFCA) ![](https://img.shields.io/badge/New-EAD8D9)
+   *Jiaxi Yang, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li*.  [[pdf](https://arxiv.org/pdf/2305.13016)], [[project](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/deep-thinking)], [[demo](https://huggingface.co/spaces/huybery/deep-thinking)], 2023.05 ![](https://img.shields.io/badge/arXiv-FAEFCA) ![](https://img.shields.io/badge/New-EAD8D9)
+
 
 ### Evaluation and Resources
 
