@@ -108,6 +108,10 @@ This section contains the pilot works that might contributes to the training str
 10. **Super-naturalinstructions: Generalization via declarative instructions on 1600+ nlp tasks.**
     *Yizhong Wang, Swaroop Mishra, Pegah Alipoormolabashi, Yeganeh Kordi, Amirreza Mirzaei, Atharva Naik, Arjun Ashok, Arut Selvan Dhanasekaran, Anjana Arunkumar, David Stap, Eshaan Pathak, Giannis Karamanolakis, Haizhi Gary Lai, Ishan Purohit, Ishani Mondal, Jacob Anderson, Kirby Kuznia, Krima Doshi, Kuntal Kumar Pal, Maitreya Patel, Mehrad Moradshahi, Mihir Parmar, Mirali Purohit, Neeraj Varshney, Phani Rohitha Kaza, Pulkit Verma, Ravsehaj Singh Puri, Rushang Karia, Savan Doshi, Shailaja Keyur Sampat, Siddhartha Mishra, Sujan Reddy A, Sumanta Patro, Tanay Dixit, Xudong Shen* [[pdf](https://aclanthology.org/2022.emnlp-main.340/)], [[project](https://instructions.apps.allenai.org/)], 2022.4, ![](https://img.shields.io/badge/EMNLP2022-FAEFCA)
 
+11. **MAML-en-LLM: Model Agnostic Meta-Training of LLMs for Improved In-Context Learning.**
+    *Sanchit Sinha, Yuguang Yue, Victor Soto, Mayank Kulkarni, Jianhua Lu, Aidong Zhang* [[pdf](https://dl.acm.org/doi/abs/10.1145/3637528.3671905)], 2024.5 ![](https://img.shields.io/badge/SIGKDD2024-FAEFCA)
+
+
 ### Prompt Tuning for ICL
 
 This section contains the pilot works that might contributes to the prompt selection and prompt formulation strategies of ICL.
