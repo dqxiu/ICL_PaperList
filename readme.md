@@ -411,6 +411,8 @@ We discuss relevant research addressing what influences ICL performance, includi
 26. **Iterative Forward Tuning Boosts In-context Learning in Language Models.** ![](https://img.shields.io/badge/DeepThinking-DCE7F1) 
    *Jiaxi Yang, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li*.  [[pdf](https://arxiv.org/pdf/2305.13016)], [[project](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/deep-thinking)], [[demo](https://huggingface.co/spaces/huybery/deep-thinking)], 2023.05 ![](https://img.shields.io/badge/arXiv-FAEFCA) ![](https://img.shields.io/badge/New-EAD8D9)
 
+27. **Unveiling Induction Heads: Provable Training Dynamics and Feature Learning in Transformers**
+    Siyu Chen, Heejune Sheen, Tianhao Wang, Zhuoran Yang. [[pdf](https://arxiv.org/pdf/2409.10559)], 2024.09 ![](https://img.shields.io/badge/NeurIPS2024-FAEFCA) ![](https://img.shields.io/badge/New-EAD8D9)
 
 ### Evaluation and Resources
 
