@@ -204,6 +204,10 @@ This section contains the pilot works that might contributes to the prompt selec
  
      *Xinyi Wang, Wanrong Zhu, William Yang Wang*.  [[pdf](https://arxiv.org/abs/2301.11916)], [[project](https://github.com/WANGXinyiLinda/concept-based-demonstration-selection)], 2023.01
 
+21. **Meta-in-context learning in large language models**. ![](https://img.shields.io/badge/NeurIPS2023-FAEFCA) ![](https://img.shields.io/badge/Meta-learning-D8D0E1)
+   
+  *Julian Coda-Forno, Marcel Binz, Zeynep Akata, Matthew Botvinick, Jane X Wang, Eric Schulz*.  [[pdf](https://proceedings.neurips.cc/paper_files/paper/2023/file/cda04d7ea67ea1376bf8c6962d8541e0-Paper-Conference.pdf)]  [[project](https://github.com/juliancodaforno/meta-in-context-learning)], 2023.06
+
 ### Analysis of ICL
 
 This section contains the pilot works that might contributes to the influence factors and working mechanism analysis of ICL.
