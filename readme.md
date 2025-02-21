@@ -450,6 +450,10 @@ This section contains the pilot works that might contributes to the evaluation o
 
    *Shayne Longpre, Le Hou, Tu Vu, Albert Webson, Hyung Won Chung, Yi Tay, Denny Zhou, Quoc V. Le, Barret Zoph, Jason Wei, Adam Roberts*. [[pdf](https://arxiv.org/pdf/2301.13688.pdf)], [[project](https://github.com/google-research/FLAN/tree/main/flan/v2)], 2023.1, ![](https://img.shields.io/badge/arxiv-FAEFCA)    ![](https://img.shields.io/badge/New-EAD8D9)
 
+10. **In-Context Learning May Not Elicit Trustworthy Reasoning: A-Not-B Errors in Pretrained Language Models**.
+
+    *Pengrui Han, Peiyang Song, Haofei Yu, Jiaxuan You*. [[pdf](https://arxiv.org/pdf/2409.15454)], [[project](https://github.com/Peiyang-Song/LLM-A-Not-B-Errors)], 2024.12, ![](https://img.shields.io/badge/EMNLP2024-FAEFCA)    ![](https://img.shields.io/badge/arxiv-FAEFCA)    ![](https://img.shields.io/badge/New-EAD8D9)
+
 ### Application
 
 This section contains the pilot works that expands the application of ICL.
